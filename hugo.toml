@@ -2,3 +2,27 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-universal-theme"
+
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "Clubs"
+    identifier = "menu.clubs"
+    url        = "/"
+    weight     = 2
+
+[[menu.main]]
+    name       = "How to Join"
+    identifier = "menu.howtojoin"
+    url        = "/"
+    weight     = 3
+
+[[menu.main]]
+    name       = "Achievements"
+    identifier = "menu.achievements"
+    url        = "/"
+    weight     = 4
