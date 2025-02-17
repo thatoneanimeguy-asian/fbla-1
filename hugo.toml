@@ -1,7 +1,9 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "BMS Clubs and Orginizations"
 theme = "hugo-universal-theme"
+
+[menu]
 
 [[menu.main]]
     name       = "Home"
@@ -12,17 +14,17 @@ theme = "hugo-universal-theme"
 [[menu.main]]
     name       = "Clubs"
     identifier = "menu.clubs"
-    url        = "/"
+    url        = "/img/template-homepage.png"
     weight     = 2
 
 [[menu.main]]
     name       = "How to Join"
     identifier = "menu.howtojoin"
-    url        = "/"
+    url        = "/img/template-homepage.png"
     weight     = 3
 
 [[menu.main]]
     name       = "Achievements"
     identifier = "menu.achievements"
-    url        = "/"
+    url        = "/img/template-homepage.png"
     weight     = 4
