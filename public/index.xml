@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BMS Clubs and Orginizations</title>
+    <title>My New Hugo Site</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on BMS Clubs and Orginizations</description>
+    <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Feb 2025 20:57:54 -0500</lastBuildDate>
