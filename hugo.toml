@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'BMS Clubs and Orginizations'
+title = 'My New Hugo Site'
 theme = "hugo-universal-theme"
 
 [[menu.main]]
