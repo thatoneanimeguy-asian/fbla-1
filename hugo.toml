@@ -26,3 +26,9 @@ theme = "hugo-universal-theme"
     identifier = "menu.achievements"
     url        = "/"
     weight     = 4
+
+[[menu.main]]
+    name       = "Bibliography"
+    identifier = "menu.Bibliography"
+    url        = "/"
+    weight     = 5
