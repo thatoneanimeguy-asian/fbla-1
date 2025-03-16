@@ -29,6 +29,6 @@ theme = "hugo-universal-theme"
 
 [[menu.main]]
     name       = "Bibliography"
-    identifier = "menu.Bibliography"
+    identifier = "menu.bibliography"
     url        = "/"
     weight     = 5
