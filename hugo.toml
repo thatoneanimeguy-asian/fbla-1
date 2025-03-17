@@ -24,6 +24,7 @@ theme = "hugo-universal-theme"
 [[menu.main]]
     name       = "Achievements"
     identifier = "menu.achievements"
+<<<<<<< Updated upstream
     url        = "/"
     weight     = 4
 
@@ -31,4 +32,12 @@ theme = "hugo-universal-theme"
     name       = "Bibliography"
     identifier = "menu.bibliography"
     url        = "/"
+=======
+    url        = "/img/template-homepage.png"
+    weight     = 4
+    [[menu.main]]
+    name       = "Bibliography"
+    identifier = "menu.bibliography"
+    url        = "/img/template-homepage.png"
+>>>>>>> Stashed changes
     weight     = 5
