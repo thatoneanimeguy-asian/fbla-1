@@ -39,5 +39,8 @@ theme = "hugo-universal-theme"
     name       = "Bibliography"
     identifier = "menu.bibliography"
     url        = "/img/template-homepage.png"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     weight     = 5
