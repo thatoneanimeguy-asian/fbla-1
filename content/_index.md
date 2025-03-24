@@ -7,3 +7,5 @@ description: ""
 
 Test
 LALALALA
+
+<a href="https://google.com" target="_blank" rel="noopener noreferrer">Open in New Tab</a>
