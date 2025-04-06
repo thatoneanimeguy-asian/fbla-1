@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BMS Clubs</title>
-    <link>http://localhost:55700/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on BMS Clubs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Mar 2025 20:05:13 -0400</lastBuildDate>
-    <atom:link href="http://localhost:55700/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sports</title>
-      <link>http://localhost:55700/sports/</link>
+      <link>http://localhost:1313/sports/</link>
       <pubDate>Sun, 16 Mar 2025 20:05:13 -0400</pubDate>
-      <guid>http://localhost:55700/sports/</guid>
+      <guid>http://localhost:1313/sports/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
