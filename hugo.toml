@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'BMS Clubs'
 theme = 'ananke'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allows raw HTML in Markdown
+
 [params]
     background_color_class = "bg-dark-blue"
 
@@ -15,41 +20,41 @@ theme = 'ananke'
 [[menu.main]]
     name       = "Sports"
     identifier = "menu.sports"
-    url        = "/"
+    url        = "/sports/"
     weight     = 2
 
 [[menu.main]]
     name       = "Academics"
     identifier = "menu.academics"
-    url        = "/"
+    url        = "/academics/"
     weight     = 3
 
 [[menu.main]]
     name       = "Games and Fun"
     identifier = "menu.gamesandfun"
-    url        = "/"
+    url        = "/gamesandfun/"
     weight     = 4
 
 [[menu.main]]
     name       = "Other Clubs"
     identifier = "menu.otherclubs"
-    url        = "/"
+    url        = "/otherclubs/"
     weight     = 5
 
 [[menu.main]]
     name       = "Achievements"
     identifier = "menu.achievements"
-    url        = "/"
+    url        = "/achievements/"
     weight     = 6
 
 [[menu.main]]
     name       = "Registration"
     identifier = "menu.registration"
-    url        = "/"
+    url        = "/registration/"
     weight     = 7
 
 [[menu.main]]
     name       = "Bibliography"
     identifier = "menu.bibliography"
-    url        = "/"
+    url        = "/bibliography/"
     weight     = 8
