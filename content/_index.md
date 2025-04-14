@@ -5,7 +5,6 @@ description: ""
 ---
 {{< figure src="images/Victor_Hugo-Hunchback.jpg" title="Caption" >}}
 
-
 <p style="color:lightblue;">Hi this is the homepage.</p>
 
 
