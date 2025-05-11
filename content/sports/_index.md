@@ -3,5 +3,5 @@ title: "Sports"
 featured_image: ''
 description: ""
 ---
-Sports Test
-<p style="color:lightblue;">Hello there.</p>
+
+<p style="color:yellow;"Welcome to the BMS Clubs Home Page!">.</> 
