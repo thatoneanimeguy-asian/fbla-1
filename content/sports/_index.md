@@ -13,3 +13,6 @@ description: ""
   <p>It's a place after school to have fun and develop your muscles safely, while still having lots of fun.</p>
 </div>
 
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706812465/mcpsorg/oxyocumlkokfupna4vdz/boyssocerforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>It's a competitive, fun, and enjoyable experience with a total of  16 games and practices on Mondays.</p>
