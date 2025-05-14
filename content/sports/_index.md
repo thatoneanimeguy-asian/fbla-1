@@ -16,6 +16,7 @@ description: ""
 <div style="display: flex; align-items: center;">
 <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706812465/mcpsorg/oxyocumlkokfupna4vdz/boyssocerforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>It's a competitive, fun, and enjoyable experience with a total of  16 games and practices on Mondays.</p>
+</div>
 
 <div style="display: flex; align-items: center;">
 <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1715352186/mcpsorg/nfxlhzjfrc2y2r4ketnv/girlssoccerforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
