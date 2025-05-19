@@ -3,14 +3,9 @@ title: "Sports"
 featured_image: ''
 description: ""
 ---
-<p style="color:blue;">Intramurals</p> 
-</div>
 <div style="display: flex; align-items: center;">
   <img src="https://th.bing.com/th/id/OIP.QWzwH-HQ79LOT8XNRPU4iwHaD_?w=327&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Description" style="width: 150px; margin-right: 10px;">
   <p>A fun little bit of sports; no competitiveness, just for those who want to try out sports.</p>
-</div>
-
-<p style="color:blue;">Weight Lifting</p> 
 </div>
 
 <div style="display: flex; align-items: center;">
