@@ -16,3 +16,7 @@ h2 {
   font-weight: 500; /* Semi-bold */
 }
 
+header {
+  padding: 0 !important;
+  margin: 0 !important;
+}
