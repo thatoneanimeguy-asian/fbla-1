@@ -36,3 +36,9 @@ description: ""
 <div style="display: flex; align-items: center;">
 <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1706303125/mcpsorg/ofarjzn8bz3wdq3wikeo/Softballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>Girls can join this softball team, while socializing and having fun with teammates.</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1694097646/mcpsorg/iipxpwr2ke2juh37olus/boysbasketball.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>Boys' basketball provides intensive training for a fun game, and provides good experiences for all members.</p>
+</div>
