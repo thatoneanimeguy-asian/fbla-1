@@ -9,6 +9,21 @@ description: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://th.bing.com/th/id/R.15cebc5d4f0657c8845656f5b4d3afa7?rik=NQIa%2f1ZVqakGww&riu=http%3a%2f%2fpngimg.com%2fuploads%2fpowerlifting%2fpowerlifting_PNG5.png&ehk=w9RqIOjbyxuxARDqXff%2bIyqy3qRbIM9cQYSIsMlLoIg%3d&risl=&pid=ImgRaw&r=0" alt="Description" style="width: 150px; margin-right: 10px;">
-  <p>It's a place after school to have fun and develop your muscles safely, while still having lots of fun..</p>
+  <img src="images/weight lift.png" alt="Description" style="width: 150px; margin-right: 10px;">
+  <p>It's a place after school to have fun and develop your muscles safely, while still having lots of fun.</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706812465/mcpsorg/oxyocumlkokfupna4vdz/boyssocerforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>It's a competitive, fun, and enjoyable experience with a total of  16 games and practices on Mondays.</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1715352186/mcpsorg/nfxlhzjfrc2y2r4ketnv/girlssoccerforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>Soccer is a very fun and enjoyable sport, and should be played by everyone, including girls. Now, BMS has a girls' soccer team.</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1743437065/mcpsorg/w7hu0u7jc5lzak9ztbnz/BaseballMarch2025.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p> BMS offers a fun and competitive baseball team.</p>
 </div>
