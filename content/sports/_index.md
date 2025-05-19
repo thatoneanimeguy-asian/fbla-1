@@ -32,3 +32,7 @@ description: ""
 <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706305102/mcpsorg/zdkwe15fff3k3k0bhzav/Trackandfieldpicforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>In track and field, athletes can participate in running events, and have chances of winning medals!</p>
 </div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1706303125/mcpsorg/ofarjzn8bz3wdq3wikeo/Softballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>Girls can join this softball team, while socializing and having fun with teammates.</p>
