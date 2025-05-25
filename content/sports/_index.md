@@ -42,3 +42,8 @@ description: ""
 <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1694097646/mcpsorg/iipxpwr2ke2juh37olus/boysbasketball.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>Boys' basketball provides intensive training for a fun game, and provides good experiences for all members.</p>
 </div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto/v1701094818/mcpsorg/hmpdcgtz769pcjkpiwro/girlsbasketball_1.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>A competitive league of basketball with intense training and fun games for girls.</p>
+</div>
