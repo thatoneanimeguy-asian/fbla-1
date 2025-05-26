@@ -47,6 +47,6 @@ description: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-<img src="images/Softballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<img src="images/Softballforwebsite (1).jpg" alt="Description" style="width: 150px; margin-right: 10px;">
 <p> BMS has a great girls softball team they have practices and games that are fun and intense.</p>
 </div>
