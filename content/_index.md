@@ -8,6 +8,6 @@ description: ""
   Welcome to the BMS Clubs Homepage.
 </div>
 
-<img src="images/BMS4.png" alt="Description" style="width: 150px; margin-right: 10px;">
+<img src="images/BMS4.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
   <p>BMS theatre group after a play</p>
 </div>
