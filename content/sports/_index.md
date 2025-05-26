@@ -48,5 +48,5 @@ description: ""
 
 <div style="display: flex; align-items: center;">
 <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1706303125/mcpsorg/ofarjzn8bz3wdq3wikeo/Softballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
-<p> BMS has a great girls softball team they have practices and games that are fun and intense.</p>
+<p> BMS has a great girls softball team. They have practices and games that are fun and intense.</p>
 </div>
