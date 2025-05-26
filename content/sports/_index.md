@@ -74,3 +74,27 @@ description: ""
 <img src="https://resources.finalsite.net/images/f_auto,q_auto/v1701094818/mcpsorg/hmpdcgtz769pcjkpiwro/girlsbasketball_1.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>A competitive league of basketball with intense training and fun games for girls.</p>
 </div>
+
+<p style="color:blue;">BMS Cheerleading Squad</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1716897080/mcpsorg/npypd4xr7ffco3tiqdgy/Cheerleadingpic.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>Girls can try out for cheerleading team,  allowing them to have fun and represent BMS.</p>
+</div>
+
+<p style="color:blue;">BMS Wrestling</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1694097997/mcpsorg/wqz1kngpmrc2d6acyuyu/wrestling.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>In wrestling, kids can learn about how to wrestle, and have fun doing so.</p>
+</div>
+
+<p style="color:blue;">BMS Cross Country</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1716900346/mcpsorg/qff8n9fo1gjyuoiidfpc/CrossCountryRace.webp" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>In cross country, kids can improve their stamina by practicing long distance running, while also being able to have a good time.</p>
+</div>
