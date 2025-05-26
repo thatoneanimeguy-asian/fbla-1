@@ -136,7 +136,7 @@ description: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fbrowse%2Ficons%2Fterm%2Fpickleball%2F&psig=AOvVaw19S38g9GigvtChT0CNG925&ust=1748383619386000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjW3taSwo0DFQAAAAAdAAAAABAE" alt="Description" style="width: 150px; margin-right: 10px;">
+<img src="https://cdn-icons-png.flaticon.com/512/16117/16117721.png" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>Pickleball club allows students to exercise regularly, while still being able to build community and have lots of fun!</p>
 </div>
 
