@@ -14,3 +14,8 @@ description: ""
 <div style="background-color: blue; padding: 15px; border-radius: 8px; color: yellow;">
   Welcome to the BMS Clubs Homepage.
 </div>
+
+<div style="backround-color: blue; padding: 15px; border-radius: 8px; color: yellow;">
+  These are a Couple Images for our Club
+
+</div>
