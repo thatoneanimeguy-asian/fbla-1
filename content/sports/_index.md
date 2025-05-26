@@ -111,7 +111,7 @@ description: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1690389505/mcpsorg/mcjfvq6b0sb2i0f0sq4d/Golfforwebsite.jpg;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1690389505/mcpsorg/mcjfvq6b0sb2i0f0sq4d/Golfforwebsite.jpg;" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>In BMS Golf everyone can have fun hitting a golf ball and competing in golf matches.</p>
 </div>
 
