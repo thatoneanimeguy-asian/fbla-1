@@ -99,7 +99,7 @@ description: ""
 <p>In cross country, kids can improve their stamina by practicing long distance running, while also being able to have a good time.</p>
 </div>
 
-<p style="color:blue;">BMS Football team</p>
+<p style="color:blue;">BMS Football Team</p>
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -116,10 +116,34 @@ description: ""
 </div>
 
 
-<p style="color:blue;">Swim and Dive team</p>
+<p style="color:blue;">Swim and Dive Team</p>
 </div>
 
 <div style="display: flex; align-items: center;">
-<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690389009/mcpsorg/hyzt3aygytdob2skqbzt/footballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<img src="hhttps://resources.finalsite.net/images/f_auto,q_auto/v1690389954/mcpsorg/wpbnnaxlfzvnfthx7fw5/Swimanddiveforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>In Swim and Dive those who love swimming and diving can enjoy the water together.</p>
+</div>
+
+<p style="color:blue;">BMS Volleyball</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690390137/mcpsorg/xa2znm90wl57fiy5yvew/Volleyballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>A sport team specifically for girls. it's fun and competitive volleyball.</p>
+</div>
+
+<p style="color:blue;">BMS Pickleball</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fbrowse%2Ficons%2Fterm%2Fpickleball%2F&psig=AOvVaw19S38g9GigvtChT0CNG925&ust=1748383619386000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjW3taSwo0DFQAAAAAdAAAAABAE" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>Pickleball club allows students to exercise regularly, while still being able to build community and have lots of fun!</p>
+</div>
+
+<p style="color:blue;">BMS Taekwondo</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://static.thenounproject.com/png/655105-200.png" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>BMS Taekwondo club is an organization that promotes martial arts practice and comradery.  It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo. </p>
 </div>
