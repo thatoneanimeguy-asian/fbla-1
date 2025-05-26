@@ -13,9 +13,7 @@ description: ""
   <p>It's a place after school to have fun and develop your muscles safely, while still having lots of fun.</p>
 </div>
 
-<div style="display: flex; align-items: center;">
-<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706812465/mcpsorg/oxyocumlkokfupna4vdz/boyssocerforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
-<p>It's a competitive, fun, and enjoyable experience with a total of  16 games and practices on Mondays.</p>
+<p style="color:blue;">BMS girls soccer team</p> 
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -31,19 +29,5 @@ description: ""
 <div style="display: flex; align-items: center;">
 <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706305102/mcpsorg/zdkwe15fff3k3k0bhzav/Trackandfieldpicforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>In track and field, athletes can participate in running events, and have chances of winning medals!</p>
-</div>
 
-<div style="display: flex; align-items: center;">
-<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1706303125/mcpsorg/ofarjzn8bz3wdq3wikeo/Softballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
-<p>Girls can join this softball team, while socializing and having fun with teammates.</p>
-</div>
-
-<div style="display: flex; align-items: center;">
-<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1694097646/mcpsorg/iipxpwr2ke2juh37olus/boysbasketball.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
-<p>Boys' basketball provides intensive training for a fun game, and provides good experiences for all members.</p>
-</div>
-
-<div style="display: flex; align-items: center;">
-<img src="https://resources.finalsite.net/images/f_auto,q_auto/v1701094818/mcpsorg/hmpdcgtz769pcjkpiwro/girlsbasketball_1.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
-<p>A competitive league of basketball with intense training and fun games for girls.</p>
-</div>
+<div style="display:flex>
