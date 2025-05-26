@@ -24,7 +24,7 @@ description: ""
 
 <div style="display: flex; align-items: center;">
 <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1715352186/mcpsorg/nfxlhzjfrc2y2r4ketnv/girlssoccerforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
-<p>Soccer is a very fun and enjoyable sport, and should be played by everyone, including girls. Now, BMS has a girls' soccer team.</p>
+<p>BMS offers a competitive girls' soccer team.</p>
 </div>
 
 <p style="color:blue;">BMS Baseball Team</p>
