@@ -47,6 +47,6 @@ description: ""
 </div>
 
 <div style="display: flex; align-items: center;"
-<img src="images/Softballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
-<p>Girls can join this softball team, while socializing and having fun with teammates.</p>
+<img src="images/softballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>Girls can join this competitive and fun softball team.</p>
 </div>
