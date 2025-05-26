@@ -98,3 +98,28 @@ description: ""
 <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1716900346/mcpsorg/qff8n9fo1gjyuoiidfpc/CrossCountryRace.webp" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>In cross country, kids can improve their stamina by practicing long distance running, while also being able to have a good time.</p>
 </div>
+
+<p style="color:blue;">BMS Football team</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690389009/mcpsorg/hyzt3aygytdob2skqbzt/footballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>In BMS Football everyone can have fun playing football while exercising and competing.</p>
+</div>
+
+<p style="color:blue;">Golf</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1690389505/mcpsorg/mcjfvq6b0sb2i0f0sq4d/Golfforwebsite.jpg;">
+<p>In BMS Golf everyone can have fun hitting a golf ball and competing in golf matches.</p>
+</div>
+
+
+<p style="color:blue;">Swim and Dive team</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690389009/mcpsorg/hyzt3aygytdob2skqbzt/footballforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<p>In Swim and Dive those who love swimming and diving can enjoy the water together.</p>
+</div>
