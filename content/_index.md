@@ -11,4 +11,4 @@ description: ""
 
 <img src="images/BMS4.jpg" alt="Description" style="width: 250px; margin-right: 10px;">
   <p>BMS theatre group after a play</p>
-</div>
+</div>  
