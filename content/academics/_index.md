@@ -3,62 +3,12 @@ title: "Academics"
 featured_image: ''
 description: ""
 ---
-<style>
-  .card-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 80vh;
-    background-color: #f4f4f4;
-  }
+<p style="color:blue;">FBLA</p>
+</div>
 
-  .card {
-    position: relative;
-    width: 300px;
-    height: 400px;
-    overflow: hidden;
-    border-radius: 15px;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-    cursor: pointer;
-  }
-
-  .card img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: filter 0.4s ease;
-  }
-
-  .card:hover img {
-    filter: blur(3px);
-  }
-
-  .overlay-text {
-    position: absolute;
-    top: 0;
-    left: -100%;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 1.5rem;
-    font-weight: bold;
-    transition: left 0.4s ease;
-  }
-
-  .card:hover .overlay-text {
-    left: 0;
-  }
-
-<div class="card-container">
-  <div class="card">
-    <img src="https://storage.googleapis.com/stateless-mountainmedianews-co/sites/19/2024/08/1-BMS-FBLA-team.jpg" alt="Card Image">
-    <div class="overlay-text">In this club, students participate in hands-on events, as well as learn business and leadership skills.</div>
-  </div>
-    </div>  
+<div style="display: flex; align-items: center;">
+   <img src="" alt="Description" style="width: 150px; margin-right: 10px;">
+   <p>In this club, students participate in hands-on events, as well as learn business and leadership skills.</p>
 
 <p style="color:blue;">ASL Club (American Sign Language)</p>
 </div>
