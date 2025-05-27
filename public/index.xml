@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other Clubs</title>
+      <link>http://localhost:1313/otherclubs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/otherclubs/</guid>
+      <description>&lt;p style=&#34;color:blue;&#34;&gt;COAST (Community Outreach Actively  Supporting Task force)&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://static.wixstatic.com/media/9ca844_6b81b4fec8404ec3bad10c94f9b89ad2~mv2.png&#34; alt=&#34;Description&#34; style=&#34;width: 150px; margin-right: 10px;&#34;&gt;&#xD;&#xA;  &lt;p&gt;COAST is a club that helps the local community, and also allows for students to participate in events that require teamwork and collaboration skills.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p style=&#34;color:blue;&#34;&gt;Yearbook Club&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://yearbookforever.com/images/Products/product_id_01.png&#34; alt=&#34;Description&#34; style=&#34;width: 150px; margin-right: 10px;&#34;&gt;&#xD;&#xA;  &lt;p&gt;In yearbook club, students can help construct this year&#39;s yearbook.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p style=&#34;color:blue;&#34;&gt;Pride Club&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn-faVDn0W3AieipaxmNd5ZP5J0iW04jj5w&amp;s&#34; alt=&#34;Description&#34; style=&#34;width: 150px; margin-right: 10px;&#34;&gt;&#xD;&#xA;  &lt;p&gt;This club is for people that are LGBTQ+ to feel at home.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
