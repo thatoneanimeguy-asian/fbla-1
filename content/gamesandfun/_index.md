@@ -117,7 +117,7 @@ description: ""
 <div class="card-container">
   <div class="card">
     <img src="https://aaregistry.org/wp-content/uploads/2021/03/stepping-afrika.jpg" alt="Card Image">
-    <div class="overlay-text">If you enjoy step dancing, this is the club for you! 7th and 8th graders only.</div>
+    <div class="overlay-text">Theta Sigma Theta step dancing club. If you enjoy step dancing, this is the club for you! 7th and 8th graders only.</div>
   </div>
     
 
@@ -176,7 +176,7 @@ description: ""
 <div class="card-container">
   <div class="card">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7hWXwervcgK_KZZrFp-LjpElQq6lV7ZmNg&s" alt="Card Image">
-    <div class="overlay-text">A place where you can use your imagination and create beautiful drawings, art, sketches, etc.</div>
+    <div class="overlay-text">Art club. A place where you can use your imagination and create beautiful drawings, art, sketches, etc.</div>
   </div>
     
 
