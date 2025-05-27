@@ -12,7 +12,7 @@ description: ""
 
   <div class="card">
     <img src="https://aaregistry.org/wp-content/uploads/2021/03/stepping-afrika.jpg" alt="Card Image">
-    <div class="overlay-text">Theta Sigma Theta step dancing club. If you enjoy step dancing, this is the club for you! 7th and 8th graders only.</div>
+    <div class="overlay-text">Theta Sigma Theta step team. If you enjoy step dancing, this is the club for you! 7th and 8th graders only.</div>
   </div>
 
   <div class="card">
