@@ -1,9 +1,5 @@
 section.measure-wide {
-  max-width: 70%;
-}
-
-.f4 {
-  font-size: 25px !important;
+  max-width: 100%;
 }
 
 .f2 {
@@ -12,14 +8,6 @@ section.measure-wide {
   font-weight: 400 !important;
 }
 
-h2 {
-  font-weight: 500; /* Semi-bold */
-}
-
-header {
-  padding: 0 !important;
-  margin: 0 !important;
-}
 
 /* Card */
 
