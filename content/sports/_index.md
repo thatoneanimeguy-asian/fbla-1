@@ -111,7 +111,7 @@ description: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1690389505/mcpsorg/mcjfvq6b0sb2i0f0sq4d/Golfforwebsite.jpg;" alt="Description" style="width: 150px; margin-right: 10px;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1690389505/mcpsorg/mcjfvq6b0sb2i0f0sq4d/Golfforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>In BMS Golf everyone can have fun hitting a golf ball and competing in golf matches.</p>
 </div>
 
@@ -120,7 +120,7 @@ description: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-<img src="hhttps://resources.finalsite.net/images/f_auto,q_auto/v1690389954/mcpsorg/wpbnnaxlfzvnfthx7fw5/Swimanddiveforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<img src="https://resources.finalsite.net/images/f_auto,q_auto/v1690389954/mcpsorg/wpbnnaxlfzvnfthx7fw5/Swimanddiveforwebsite.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
 <p>In Swim and Dive those who love swimming and diving can enjoy the water together.</p>
 </div>
 
