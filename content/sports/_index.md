@@ -151,7 +151,7 @@ description: ""
 
 
   <div class="card">
-    <img src="https://static.thenounproject.com/png/655105-200.png" alt="Card Image">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiS8t9ODi29FC-qq-8EVBJcUS_f9yLtw5nkw&s" alt="Card Image">
     <div class="overlay-text">BMS Taekwondo Club is an organization that promotes martial arts practice and comradery. It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo.</div>
   </div>
 </div>
