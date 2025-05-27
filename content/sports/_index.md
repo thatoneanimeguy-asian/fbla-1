@@ -23,7 +23,7 @@ description: ""
 
   <div class="card">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706812465/mcpsorg/oxyocumlkokfupna4vdz/boyssocerforwebsite.jpg" alt="Card Image">
-    <div class="overlay-text">Boys' soccer a competitive, fun, and an enjoyable experience with a total of 16 games and practices on Mondays.</div>
+    <div class="overlay-text">Boys' soccer is a competitive, fun, and an enjoyable experience with a total of 16 games and practices on Mondays.</div>
   </div>
   
 
@@ -82,7 +82,7 @@ description: ""
 
   <div class="card">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1716897080/mcpsorg/npypd4xr7ffco3tiqdgy/Cheerleadingpic.jpg" alt="Card Image">
-    <div class="overlay-text">Girls can try out for cheerleading team,  allowing them to have fun and represent BMS.</div>
+    <div class="overlay-text">Girls can try out for cheerleading team, allowing them to have fun and represent BMS.</div>
   </div>
 
 
@@ -152,6 +152,6 @@ description: ""
 
   <div class="card">
     <img src="https://static.thenounproject.com/png/655105-200.png" alt="Card Image">
-    <div class="overlay-text">BMS Taekwondo Club is an organization that promotes martial arts practice and comradery.  It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo.</div>
+    <div class="overlay-text">BMS Taekwondo Club is an organization that promotes martial arts practice and comradery. It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo.</div>
   </div>
 </div>
