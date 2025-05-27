@@ -10,5 +10,13 @@ description: ""
 </div>
 
 <img src="images/BMS4.jpg" alt="Description" style="width: 250px; margin-right: 10px;">
-  <p>BMS theatre group after a play</p>
+  <p>BMS theatre group after a play.</p>
 </div>  
+
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690389009/mcpsorg/hyzt3aygytdob2skqbzt/footballforwebsite.jpg" alt="Description" style="width: 250px; margin-right: 10px;">
+<p>The BMS football team during a game.</p>
+</div>
+
+<img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1743437065/mcpsorg/w7hu0u7jc5lzak9ztbnz/BaseballMarch2025.jpg" alt="Description" style="width: 250px; margin-right: 10px;">
+<p>The BMS baseball team.</p>
+</div>
