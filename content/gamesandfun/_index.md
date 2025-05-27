@@ -240,8 +240,6 @@ description: ""
   </div>
 
 
-
-
 <style>
   .card-container {
     display: flex;
