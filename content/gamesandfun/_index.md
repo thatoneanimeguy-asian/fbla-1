@@ -19,12 +19,10 @@ description: ""
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7hWXwervcgK_KZZrFp-LjpElQq6lV7ZmNg&s" alt="Card Image">
     <div class="overlay-text">Art club. A place where you can use your imagination and create beautiful drawings, art, sketches, etc.</div>
   </div>
-
   <div class="card">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1687442295/mcpsorg/sxiswcea7gegoo1eokev/BMS4.jpg" alt="Card Image">
     <div class="overlay-text">In Drama Club, students have a chance to pursue acting careers, and can participate in the playing of Elf The Musical, Jr.</div>
   </div>
-
   <div class="card">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/640px-ChessSet.jpg" alt="Card Image">
     <div class="overlay-text">Chess club is a place to hang out, talk, and play chess. Chess also helps develop your intellectual capabilities.</div>
