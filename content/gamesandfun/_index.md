@@ -7,7 +7,7 @@ description: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://cdn.prod.website-files.com/5ef533ae985e4ec69badc014/66dbbd9f65f6e9a2483e6274_dnd-explained.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
+<img src="https://cdn.prod.website-files.com/5ef533ae985e4ec69badc014/66dbbd9f65f6e9a2483e6274_dnd-explained.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
   <p>In D&D club, students can play Dungeons and Dragons, while allowing them to have a good time talking to others.</p>
 </div>
 
@@ -42,3 +42,16 @@ description: ""
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/640px-ChessSet.jpg" alt="Description" style="width: 150px; margin-right: 10px;">
   <p>Chess club is a place to hang out, talk, and play chess. Chess also helps develop your intellectual capabilities.</p>
 </div>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shake Image</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <h1>Hover Over the Image!</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/640px-ChessSet.jpg" alt="Shaking Cat" class="shake-on-hover" />
+</body>
+</html>
