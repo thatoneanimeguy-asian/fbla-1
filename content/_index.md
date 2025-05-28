@@ -35,4 +35,4 @@ description: ""
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690389009/mcpsorg/hyzt3aygytdob2skqbzt/footballforwebsite.jpg" alt="Card Image">
     <div class="overlay-text">The BMS football team during a game.</div>
   </div>
-   </div>
+    </div>
