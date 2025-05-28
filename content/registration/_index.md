@@ -32,3 +32,15 @@ description: ""
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeykVH0XsEi0oVMMWmDm74jobw5mzn_okCswhftqxxuH5o7Gg/viewform" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/16117/16117721.png" alt="Clickable Image" style="height:200px;">
 </a>
+</div>
+
+<p>Academics</p>
+</div>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeyQv30NBJo0DFhyWruXHFIQyugOakECRt6bk8Oijw7Ksy6qw/viewform" target="_blank">
+  <img src="https://storage.googleapis.com/stateless-mountainmedianews-co/sites/19/2024/08/1-BMS-FBLA-team.jpg" alt="Clickable Image" style="height:200px;">
+</a>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdY5pLLKStTEKj2BtuFLPm3FdqkIKI3I1x8X1eq2nypmbN77Q/viewform" target="_blank">
+  <img src="https://t3.ftcdn.net/jpg/02/96/60/70/360_F_296607002_qXcuGBZXQdD5z7NY4ofXNlskMUNItNYZ.jpg" alt="Clickable Image" style="height:200px;">
+</a>
