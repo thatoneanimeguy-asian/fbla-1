@@ -10,8 +10,6 @@ description: ""
   Welcome to the BMS Clubs Homepage.
 </div>
 
-<br>
-
 <div class="card-container">
   <div class="card">
     <img src="images/BMS4.jpg" alt="Card Image">
