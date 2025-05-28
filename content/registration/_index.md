@@ -56,3 +56,31 @@ description: ""
 <a href="https://docs.google.com/document/d/1-G2TDELGcpJydtI8whPs9w8jYsIZov2-MAczd9A_3HA/edit?tab=t.0" target="_blank">
   <img src="https://www.robotc.net/images/download-vex.jpg" alt="Clickable Image" style="height:200px;">
 </a>
+
+<a href="https://docs.google.com/forms/u/0/d/1t2xuHs6SPU9e_wyGpJS_Q8zFbKn8uNPhZY79zxCmvYY/viewform?edit_requested=true" target="_blank">
+  <img src="https://freerangestock.com/sample/130433/eiffel-tower.jpg" alt="Clickable Image" style="height:200px;">
+</a>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSex41lqdJYagdYh7vBrsn9LucLovx6FS-BoDpwFa0BtCpYAFg/viewform" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Technology_Student_Association_Emblem.svg/1200px-Technology_Student_Association_Emblem.svg.png" alt="Clickable Image" style="height:200px;">
+</a>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf5kj-gLvt1C_JUwfvVuIdtyx_-QKYkR4dmZWtbSoZ6Ycd0WA/viewform" target="_blank">
+  <img src="https://images.squarespace-cdn.com/content/v1/63d40fe2cbd65e16cb8098b6/e5434385-f0d5-420d-bab0-653a932ab3c0/mathcounts" alt="Clickable Image" style="height:200px;">
+</a>
+</div>
+
+<p>Games and Fun</p>
+</div>
+
+<a href="https://docs.google.com/forms/d/1o48sym0pS8CF4AhaFm3h7tDbLANgClfaMxlrgiJVGlk/viewform?edit_requested=true" target="_blank">
+  <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1687442295/mcpsorg/sxiswcea7gegoo1eokev/BMS4.jpg" alt="Clickable Image" style="height:200px;">
+</a>
+</div>
+
+<p>Other Clubs</p>
+</div>
+
+<a href="https://docs.google.com/forms/d/15M_b5q_zUrWIxFJjRI0pLNh1wD2Wf50sOW8_AA-q62k/formrestricted" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn-faVDn0W3AieipaxmNd5ZP5J0iW04jj5w&s" alt="Clickable Image" style="height:200px;">
+</a>
