@@ -44,3 +44,15 @@ description: ""
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdY5pLLKStTEKj2BtuFLPm3FdqkIKI3I1x8X1eq2nypmbN77Q/viewform" target="_blank">
   <img src="https://t3.ftcdn.net/jpg/02/96/60/70/360_F_296607002_qXcuGBZXQdD5z7NY4ofXNlskMUNItNYZ.jpg" alt="Clickable Image" style="height:200px;">
 </a>
+
+<a href="https://www.canva.com/design/DAFtt0Q1--w/x4hUYHo2j5aD326VsZSTug/edit" target="_blank">
+  <img src="https://www.shutterstock.com/image-photo/closeup-magazines-arranged-on-bookshelf-260nw-1341869699.jpg" alt="Clickable Image" style="height:200px;">
+</a>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdnL63FxJV8cIqi0EbJ6uyWLImPoEnCsPXBJPhcDs3ONtmWQg/viewform" target="_blank">
+  <img src="https://images.seeklogo.com/logo-png/40/2/national-ffa-organization-logo-png_seeklogo-401847.png" alt="Clickable Image" style="height:200px;">
+</a>
+
+<a href="https://docs.google.com/document/d/1-G2TDELGcpJydtI8whPs9w8jYsIZov2-MAczd9A_3HA/edit?tab=t.0" target="_blank">
+  <img src="https://www.robotc.net/images/download-vex.jpg" alt="Clickable Image" style="height:200px;">
+</a>
