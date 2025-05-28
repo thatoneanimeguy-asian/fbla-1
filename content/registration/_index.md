@@ -69,3 +69,18 @@ description: ""
   <img src="https://images.squarespace-cdn.com/content/v1/63d40fe2cbd65e16cb8098b6/e5434385-f0d5-420d-bab0-653a932ab3c0/mathcounts" alt="Clickable Image" style="height:200px;">
 </a>
 </div>
+
+<p>Games and Fun</p>
+</div>
+
+<a href="https://docs.google.com/forms/d/1o48sym0pS8CF4AhaFm3h7tDbLANgClfaMxlrgiJVGlk/viewform?edit_requested=true" target="_blank">
+  <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1687442295/mcpsorg/sxiswcea7gegoo1eokev/BMS4.jpg" alt="Clickable Image" style="height:200px;">
+</a>
+</div>
+
+<p>Other Clubs</p>
+</div>
+
+<a href="https://docs.google.com/forms/d/15M_b5q_zUrWIxFJjRI0pLNh1wD2Wf50sOW8_AA-q62k/formrestricted" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn-faVDn0W3AieipaxmNd5ZP5J0iW04jj5w&s" alt="Clickable Image" style="height:200px;">
+</a>
