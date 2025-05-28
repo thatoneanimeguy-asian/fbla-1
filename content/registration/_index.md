@@ -56,3 +56,16 @@ description: ""
 <a href="https://docs.google.com/document/d/1-G2TDELGcpJydtI8whPs9w8jYsIZov2-MAczd9A_3HA/edit?tab=t.0" target="_blank">
   <img src="https://www.robotc.net/images/download-vex.jpg" alt="Clickable Image" style="height:200px;">
 </a>
+
+<a href="https://docs.google.com/forms/u/0/d/1t2xuHs6SPU9e_wyGpJS_Q8zFbKn8uNPhZY79zxCmvYY/viewform?edit_requested=true" target="_blank">
+  <img src="https://freerangestock.com/sample/130433/eiffel-tower.jpg" alt="Clickable Image" style="height:200px;">
+</a>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSex41lqdJYagdYh7vBrsn9LucLovx6FS-BoDpwFa0BtCpYAFg/viewform" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Technology_Student_Association_Emblem.svg/1200px-Technology_Student_Association_Emblem.svg.png" alt="Clickable Image" style="height:200px;">
+</a>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf5kj-gLvt1C_JUwfvVuIdtyx_-QKYkR4dmZWtbSoZ6Ycd0WA/viewform" target="_blank">
+  <img src="https://images.squarespace-cdn.com/content/v1/63d40fe2cbd65e16cb8098b6/e5434385-f0d5-420d-bab0-653a932ab3c0/mathcounts" alt="Clickable Image" style="height:200px;">
+</a>
+</div>
