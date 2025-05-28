@@ -17,3 +17,7 @@ description: ""
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTZoOPckwzGx-17oJ8pXxYgmr7JFoc4eeHEpO-X8vAo9X79A/viewform" target="_blank">
   <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706305102/mcpsorg/zdkwe15fff3k3k0bhzav/Trackandfieldpicforwebsite.jpg" alt="Clickable Image" style="height:200px;">
 </a>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScgQ7BnMNx4EnTjeRKhPCKXQWZ7e8R05qHo2X8THcFXAIx2Rg/viewform" target="_blank">
+  <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1706303125/mcpsorg/ofarjzn8bz3wdq3wikeo/Softballforwebsite.jpg" alt="Clickable Image" style="height:200px;">
+</a>
