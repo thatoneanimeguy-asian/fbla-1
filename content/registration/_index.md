@@ -3,6 +3,8 @@ title: "Registration"
 featured_image: ''
 description: ""
 ---
+<p>Click on an image to register for the respective club.</p>
+</div>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScoLMJ3QeWPjB_6GW-xbMiyynphcARem3A8L7xu3PFws2jxdA/viewform" target="_blank">
   <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706812465/mcpsorg/oxyocumlkokfupna4vdz/boyssocerforwebsite.jpg" alt="Clickable Image" style="height:200px;">
