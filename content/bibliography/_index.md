@@ -46,3 +46,31 @@ description: ""
 </div>
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiS8t9ODi29FC-qq-8EVBJcUS_f9yLtw5nkw&s"><p>Taekwondo</p>
 </div>
+
+<p>Academics</p>
+</div>
+
+<a href="https://storage.googleapis.com/stateless-mountainmedianews-co/sites/19/2024/08/1-BMS-FBLA-team.jpg"><p>FBLA</p>
+</div>
+<a href="https://t3.ftcdn.net/jpg/02/96/60/70/360_F_296607002_qXcuGBZXQdD5z7NY4ofXNlskMUNItNYZ.jpg"><p>ASL</p>
+</div>
+<a href="https://www.shutterstock.com/image-photo/closeup-magazines-arranged-on-bookshelf-260nw-1341869699.jpg"><p>Cheerleading</p>
+</div>
+<a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1694097997/mcpsorg/wqz1kngpmrc2d6acyuyu/wrestling.jpg"><p>Literary Magazine</p>
+</div>
+<a href="https://images.seeklogo.com/logo-png/40/2/national-ffa-organization-logo-png_seeklogo-401847.png"><p>FFA</p>
+</div>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnk9nyMp-BV3PsYz9DP_CHF6N8DT3uoKH5ow&s"><p>FCCLA</p>
+</div>
+<a href="https://www.robotc.net/images/download-vex.jpg"><p>Robotics</p>
+</div>
+<a href="https://freerangestock.com/sample/130433/eiffel-tower.jpg"><p>French</p>
+</div>
+<a href="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Technology_Student_Association_Emblem.svg/1200px-Technology_Student_Association_Emblem.svg.png"><p>TSA</p>
+</div>
+<a href="https://www.worldhistory.org/uploads/images/6798.jpg"><p>History</p>
+</div>
+<a href="https://images.squarespace-cdn.com/content/v1/63d40fe2cbd65e16cb8098b6/e5434385-f0d5-420d-bab0-653a932ab3c0/mathcounts"><p>Mathcounts</p>
+</div>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHYVZzvyuXS353QOYjXCaos2wIcJ-MskXxg&s"><p>Science Olympiad</p>
+</div>
