@@ -1,3 +1,9 @@
+---
+title: "Bibliography"
+featured_image: ''
+description: ""
+---
+
 <p>Links for various images are shown here. Links will be labeled for the corresponding club.</p>
 </div>
 
