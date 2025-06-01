@@ -44,7 +44,7 @@ description: ""
 </div>
 <a href="https://cdn-icons-png.flaticon.com/512/16117/16117721.png"><p>Pickleball</p>
 </div>
-<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiS8t9ODi29FC-qq-8EVBJcUS_f9yLtw5nkw&s"><p>Taekwondo</p>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiS8t9ODi29FC-qq-8EVBJcUS_f9yLtw5nkw&s"><p>Taekwondo</p></a>
 </div>
 
 <p>Academics</p>
