@@ -31,3 +31,15 @@ description: ""
 </div>
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1716900346/mcpsorg/qff8n9fo1gjyuoiidfpc/CrossCountryRace.webp"><p>Cross Country</p>
 </div>
+<a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690389009/mcpsorg/hyzt3aygytdob2skqbzt/footballforwebsite.jpg"><p>Football</p>
+</div>
+<a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1690389505/mcpsorg/mcjfvq6b0sb2i0f0sq4d/Golfforwebsite.jpg"><p>Golf</p>
+</div>
+<a href="https://resources.finalsite.net/images/f_auto,q_auto/v1690389954/mcpsorg/wpbnnaxlfzvnfthx7fw5/Swimanddiveforwebsite.jpg"><p>Swim and Dive</p>
+</div>
+<a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690390137/mcpsorg/xa2znm90wl57fiy5yvew/Volleyballforwebsite.jpg"><p>Volleyball</p>
+</div>
+<a href="https://cdn-icons-png.flaticon.com/512/16117/16117721.png"><p>Pickleball</p>
+</div>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiS8t9ODi29FC-qq-8EVBJcUS_f9yLtw5nkw&s"><p>Taekwondo</p>
+</div>
