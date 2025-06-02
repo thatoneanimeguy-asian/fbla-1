@@ -58,3 +58,26 @@ description: ""
 <a href="https://images.squarespace-cdn.com/content/v1/63d40fe2cbd65e16cb8098b6/e5434385-f0d5-420d-bab0-653a932ab3c0/mathcounts">Mathcounts</a>
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHYVZzvyuXS353QOYjXCaos2wIcJ-MskXxg&s">Science Olympiad</a>
 </div>
+
+<p>Games and Fun</p>
+</div>
+
+<a href="https://cdn.prod.website-files.com/5ef533ae985e4ec69badc014/66dbbd9f65f6e9a2483e6274_dnd-explained.jpg">Dungeons and Dragons</a>
+<a href="https://aaregistry.org/wp-content/uploads/2021/03/stepping-afrika.jpg">Theta Sigme Theta Step Team</a>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7hWXwervcgK_KZZrFp-LjpElQq6lV7ZmNg&s">Art Club</a>
+</div>
+
+<a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1687442295/mcpsorg/sxiswcea7gegoo1eokev/BMS4.jpg">Drama Club</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/640px-ChessSet.jpg">Chess Club</a>
+</div>
+
+<p>Other Clubs</p>
+</div>
+
+<a href="https://static.wixstatic.com/media/9ca844_6b81b4fec8404ec3bad10c94f9b89ad2~mv2.png">COAST</a>
+<a href="https://yearbookforever.com/images/Products/product_id_01.png">Yearbook Club</a>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn-faVDn0W3AieipaxmNd5ZP5J0iW04jj5w&s">Pride Club</a>
+</div>
+
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWSkEbE4eQXLCOPlixqoxMcPinhSFbLX7nZg&s">TICKET Club</a>
+<a href="https://lirp.cdn-website.com/5f4b8e70/dms3rep/multi/opt/FCAlogo-CircleColr-01-1920w.png">FCA</a>
