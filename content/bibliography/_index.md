@@ -15,21 +15,25 @@ description: ""
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706812465/mcpsorg/oxyocumlkokfupna4vdz/boyssocerforwebsite.jpg">Boys' Soccer</a>
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1715352186/mcpsorg/nfxlhzjfrc2y2r4ketnv/girlssoccerforwebsite.jpg">Girls' Soccer</a>
 </div>
-<a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1743437065/mcpsorg/w7hu0u7jc5lzak9ztbnz/BaseballMarch2025.jpg">Baseball</a>
+
+<a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1743437065/mcpsorg/w7hu0u7jc5lzak9ztbnz/BaseballMarch2025.jpg">Baseball  </a>
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706305102/mcpsorg/zdkwe15fff3k3k0bhzav/Trackandfieldpicforwebsite.jpg">Track and Field</a>
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1706303125/mcpsorg/ofarjzn8bz3wdq3wikeo/Softballforwebsite.jpg">Softball</a>
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1694097646/mcpsorg/iipxpwr2ke2juh37olus/boysbasketball.jpg">Boys' Basketball</a>
 </div>
+
 <a href="https://resources.finalsite.net/images/f_auto,q_auto/v1701094818/mcpsorg/hmpdcgtz769pcjkpiwro/girlsbasketball_1.jpg">Girls' Basketball</a>
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1716897080/mcpsorg/npypd4xr7ffco3tiqdgy/Cheerleadingpic.jpg">Cheerleading</a>
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1694097997/mcpsorg/wqz1kngpmrc2d6acyuyu/wrestling.jpg">Wrestling</a>
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1716900346/mcpsorg/qff8n9fo1gjyuoiidfpc/CrossCountryRace.webp">Cross Country</a>
 </div>
+
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690389009/mcpsorg/hyzt3aygytdob2skqbzt/footballforwebsite.jpg">Football</a>
-<a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1690389505/mcpsorg/mcjfvq6b0sb2i0f0sq4d/Golfforwebsite.jpg"><p>Golf</p>
+<a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1690389505/mcpsorg/mcjfvq6b0sb2i0f0sq4d/Golfforwebsite.jpg">Golf</a>
 <a href="https://resources.finalsite.net/images/f_auto,q_auto/v1690389954/mcpsorg/wpbnnaxlfzvnfthx7fw5/Swimanddiveforwebsite.jpg">Swim and Dive</a>
 <a href="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690390137/mcpsorg/xa2znm90wl57fiy5yvew/Volleyballforwebsite.jpg">Volleyball</a>
 </div>
+
 <a href="https://cdn-icons-png.flaticon.com/512/16117/16117721.png">Pickleball</a>
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiS8t9ODi29FC-qq-8EVBJcUS_f9yLtw5nkw&s">Taekwondo</a>
 </div>
