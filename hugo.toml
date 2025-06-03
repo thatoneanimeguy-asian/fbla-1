@@ -58,3 +58,7 @@ theme = 'ananke'
     identifier = "menu.bibliography"
     url        = "/bibliography/"
     weight     = 8
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
