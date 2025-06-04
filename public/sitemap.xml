@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/academics/</loc>
+    <loc>http://localhost:1313/fbla-1/academics/</loc>
   </url><url>
-    <loc>http://localhost:1313/achievements/</loc>
+    <loc>http://localhost:1313/fbla-1/achievements/</loc>
   </url><url>
-    <loc>http://localhost:1313/bibliography/</loc>
+    <loc>http://localhost:1313/fbla-1/bibliography/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/fbla-1/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/gamesandfun/</loc>
+    <loc>http://localhost:1313/fbla-1/gamesandfun/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/fbla-1/</loc>
   </url><url>
-    <loc>http://localhost:1313/otherclubs/</loc>
+    <loc>http://localhost:1313/fbla-1/otherclubs/</loc>
   </url><url>
-    <loc>http://localhost:1313/registration/</loc>
+    <loc>http://localhost:1313/fbla-1/registration/</loc>
   </url><url>
-    <loc>http://localhost:1313/sports/</loc>
+    <loc>http://localhost:1313/fbla-1/sports/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/fbla-1/tags/</loc>
   </url>
 </urlset>
