@@ -4,6 +4,8 @@ featured_image: ''
 description: ""
 ---
 
+<link rel="stylesheet" href="style.css">
+
 <br>
 <br>
 
