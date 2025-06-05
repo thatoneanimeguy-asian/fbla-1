@@ -6,6 +6,6 @@
     <description>Recent content in Tags on BMS Clubs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/fbla-1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="localhost:1313/fbla-1/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
