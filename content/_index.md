@@ -5,10 +5,8 @@ description: ""
 ---
 
 <br>
-<br>
-
-  <div style="background-color: blue; padding: 60px; border-radius: 32px; color:yellow;">
-  <p style="text-align:center;">Welcome to the BMS Clubs Homepage.</p>
+<div style="background-color: blue; padding: 60px; border-radius: 32px; color: yellow; text-align: center;">
+  <p>Welcome to the BMS Clubs Homepage.</p>
 </div>
 
 <div class="card-container">
