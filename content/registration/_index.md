@@ -13,6 +13,25 @@ description: ""
   .shrink-on-hover {
     transition: transform 0.3s ease;
     display: inline-block;
+    transform: scale(1); /* ensures normal size initially */
+  }
+
+  .shrink-on-hover:hover {
+    transform: scale(0.95); /* shrink slightly on hover */
+  }
+</style>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScoLMJ3QeWPjB_6GW-xbMiyynphcARem3A8L7xu3PFws2jxdA/viewform" target="_blank">
+  <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706812465/mcpsorg/oxyocumlkokfupna4vdz/boyssocerforwebsite.jpg" 
+       alt="Clickable Image" 
+       class="shrink-on-hover" 
+       style="height:200px;">
+</a>
+
+<style>
+  .shrink-on-hover {
+    transition: transform 0.3s ease;
+    display: inline-block;
   }
 
   .shrink-on-hover:hover {
