@@ -3,9 +3,9 @@ title: "Home"
 featured_image: ''
 description: ""
 ---
-
 <br>
-<div style="background-color: blue; padding: 60px; border-radius: 32px; color: yellow; text-align: center;">
+<br>
+ <div style="background-color: blue; padding: 60px; border-radius: 32px; color: yellow; text-align: center;">
   <p>Welcome to the BMS Clubs Homepage.</p>
 </div>
 
