@@ -13,11 +13,11 @@ description: ""
   .shrink-on-hover {
     transition: transform 0.3s ease;
     display: inline-block;
-    transform: scale(1); /* ensures normal size initially */
+    transform: scale(1);
   }
 
   .shrink-on-hover:hover {
-    transform: scale(0.95); /* shrink slightly on hover */
+    transform: scale(0.95);
   }
 </style>
 
