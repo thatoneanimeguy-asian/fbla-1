@@ -43,18 +43,18 @@
     <meta property="og:url" content="//localhost:1313/fbla-1/academics/">
   <meta property="og:site_name" content="BMS Clubs">
   <meta property="og:title" content="Academics">
-  <meta property="og:description" content="Hover over an image to learn about the respective club.
+  <meta property="og:description" content="Hover over or click on an image to learn about the respective club.
 In FBLA, students participate in hands-on events, as well as learn business and leadership skills.In ASL (American Sign Language) club, students learn about the importance of sign language, and how to use it.If you like writing, literary magazine club is the place to go! With many different styles, such as poems and artwork, you can find fun and joy in writing, and possibly improve your English grade.FFA (Future Farmers of America) encourages students to improve leadership skills, while also teaching them about agriculture and such.FCCLA (Family, Career and Community Leaders of America) helps students develop community and leadership skills, while also doing fun food-related activities.Robotics club allows students to play around with robots, while also being able to do other STEM activities, such as the First Tech Challenge.In French club, students can explore the wonders of France, while participating in many fun activities.In TSA (Technology Student Association), students learn about leadership, friendship, and community service, while also having access to 3D printers and CNC routers.In history club, students get a chance to learn about the wonders of the world, and also can participate in the 2025 Virginia History Day Contest.In Mathcounts, students learn about many different parts of math, and get to participate in fun math contests.Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 
   <meta itemprop="name" content="Academics">
-  <meta itemprop="description" content="Hover over an image to learn about the respective club.
+  <meta itemprop="description" content="Hover over or click on an image to learn about the respective club.
 In FBLA, students participate in hands-on events, as well as learn business and leadership skills.In ASL (American Sign Language) club, students learn about the importance of sign language, and how to use it.If you like writing, literary magazine club is the place to go! With many different styles, such as poems and artwork, you can find fun and joy in writing, and possibly improve your English grade.FFA (Future Farmers of America) encourages students to improve leadership skills, while also teaching them about agriculture and such.FCCLA (Family, Career and Community Leaders of America) helps students develop community and leadership skills, while also doing fun food-related activities.Robotics club allows students to play around with robots, while also being able to do other STEM activities, such as the First Tech Challenge.In French club, students can explore the wonders of France, while participating in many fun activities.In TSA (Technology Student Association), students learn about leadership, friendship, and community service, while also having access to 3D printers and CNC routers.In history club, students get a chance to learn about the wonders of the world, and also can participate in the 2025 Virginia History Day Contest.In Mathcounts, students learn about many different parts of math, and get to participate in fun math contests.Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.">
-  <meta itemprop="wordCount" content="247">
+  <meta itemprop="wordCount" content="250">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Academics">
-  <meta name="twitter:description" content="Hover over an image to learn about the respective club.
+  <meta name="twitter:description" content="Hover over or click on an image to learn about the respective club.
 In FBLA, students participate in hands-on events, as well as learn business and leadership skills.In ASL (American Sign Language) club, students learn about the importance of sign language, and how to use it.If you like writing, literary magazine club is the place to go! With many different styles, such as poems and artwork, you can find fun and joy in writing, and possibly improve your English grade.FFA (Future Farmers of America) encourages students to improve leadership skills, while also teaching them about agriculture and such.FCCLA (Family, Career and Community Leaders of America) helps students develop community and leadership skills, while also doing fun food-related activities.Robotics club allows students to play around with robots, while also being able to do other STEM activities, such as the First Tech Challenge.In French club, students can explore the wonders of France, while participating in many fun activities.In TSA (Technology Student Association), students learn about leadership, friendship, and community service, while also having access to 3D printers and CNC routers.In history club, students get a chance to learn about the wonders of the world, and also can participate in the 2025 Virginia History Day Contest.In Mathcounts, students learn about many different parts of math, and get to participate in fun math contests.Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.">
 
 	
@@ -146,8 +146,57 @@ In FBLA, students participate in hands-on events, as well as learn business and 
     <main class="pb7" role="main">
       
   <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"><p>Hover over an image to learn about the respective club.</p>
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"><p>Hover over or click on an image to learn about the respective club.</p>
 </div>
+<style>
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px;
+  }
+
+  .card {
+    position: relative;
+    background-color: #f0f0f0;
+    border-radius: 16px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease;
+    max-width: 320px;
+    width: 100%;
+  }
+
+  .card:hover {
+    transform: scale(1.02);
+  }
+
+  .card img {
+    width: 100%;
+    border-radius: 12px;
+  }
+
+  .description {
+    display: none;
+    margin-top: 12px;
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 16px;
+  }
+
+  .card:hover .description {
+    display: block;
+  }
+
+  .card.show-description .description {
+    display: block;
+  }
+</style>
 <div class="card-container">
   <div class="card">
     <img src="https://storage.googleapis.com/stateless-mountainmedianews-co/sites/19/2024/08/1-BMS-FBLA-team.jpg" alt="Card Image">
@@ -193,7 +242,15 @@ In FBLA, students participate in hands-on events, as well as learn business and 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHYVZzvyuXS353QOYjXCaos2wIcJ-MskXxg&s" alt="Card Image">
     <div class="overlay-text">Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.</div>
   </div>
-    </div>  </section>
+    </div>  
+  <script>
+  function toggleDescription(card) {
+    const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+    if (isTouch) {
+      card.classList.toggle('show-description');
+    }
+  }
+</script></section>
     <section class="flex-ns flex-wrap justify-around mt5">
       
     </section></article>
