@@ -5,6 +5,8 @@ description: ""
 ---
 
 <p>Hover over an image to learn about the respective club.</p>
+</div>
+
 <div class="card-container">
   <div class="card">
     <img src="https://cdn.prod.website-files.com/5ef533ae985e4ec69badc014/66dbbd9f65f6e9a2483e6274_dnd-explained.jpg" alt="Card Image">

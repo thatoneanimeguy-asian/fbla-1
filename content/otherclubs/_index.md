@@ -5,6 +5,8 @@ description: ""
 ---
 
 <p>Hover over an image to learn about the respective club.</p>
+</div>
+
 <div class="card-container">
   <div class="card">
     <img src="https://static.wixstatic.com/media/9ca844_6b81b4fec8404ec3bad10c94f9b89ad2~mv2.png" alt="Card Image">

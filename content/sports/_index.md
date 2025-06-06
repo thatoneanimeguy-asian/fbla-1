@@ -5,6 +5,8 @@ description: ""
 ---
 
 <p>Hover over an image to learn about the respective club.</p>
+</div>
+
 <div class="card-container">
   <div class="card">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs00uGc1aVmQkicIJ4fJMCT9_ClNUT8j_nlw&s" alt="Card Image">
