@@ -12,7 +12,6 @@ description: ""
     color: yellow;
     text-align: center;
   }
-
   .hero-text {
     font-size: 80px;
     margin: 0;
