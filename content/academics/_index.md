@@ -4,7 +4,7 @@ featured_image: ''
 description: ""
 ---
 
-
+<p>Hover over an image to learn about the respective club.</p>
 <div class="card-container">
   <div class="card">
     <img src="https://storage.googleapis.com/stateless-mountainmedianews-co/sites/19/2024/08/1-BMS-FBLA-team.jpg" alt="Card Image">
