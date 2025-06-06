@@ -14,7 +14,7 @@ description: ""
   }
 
   .hero-text {
-    font-size: 32px;
+    font-size: 80px;
     margin: 0;
   }
 </style>
