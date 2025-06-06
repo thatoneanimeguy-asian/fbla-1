@@ -4,9 +4,23 @@ featured_image: ''
 description: ""
 ---
 <br>
-<br>
- <div style="background-color: blue; padding: 60px; border-radius: 32px; color: yellow; text-align: center;">
-  <p style="font size: 50px;">Welcome to the BMS Clubs Homepage.</p>
+<style>
+  .hero-box {
+    background-color: blue;
+    padding: 60px;
+    border-radius: 32px;
+    color: yellow;
+    text-align: center;
+  }
+
+  .hero-text {
+    font-size: 32px;
+    margin: 0;
+  }
+</style>
+
+<div class="hero-box">
+  <p class="hero-text">Welcome to the BMS Clubs Homepage.</p>
 </div>
 
 <div class="card-container">
