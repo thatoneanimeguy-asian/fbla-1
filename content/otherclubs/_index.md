@@ -4,6 +4,8 @@ featured_image: ''
 description: ""
 ---
 
+<p>Hover over or click on an image to learn about the respective club.</p>
+</div>
 
 <div class="card-container">
   <div class="card">

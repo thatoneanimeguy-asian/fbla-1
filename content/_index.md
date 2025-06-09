@@ -8,7 +8,7 @@ description: ""
 <br>
 
   <div style="background-color: blue; padding: 60px; border-radius: 32px; color:yellow;">
-  Welcome to the BMS Clubs Homepage.
+  <p style="text-align:center;">Welcome to the BMS Clubs Homepage.</p>
 </div>
 
 <div class="card-container">

@@ -1,0 +1,43 @@
+/* Basic Styles for the hamburger button */
+.hamburger {
+  display: none;
+  font-size: 30px;
+  color: white;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  position: absolute;
+  top: 20px; /* Adjust for your layout */
+  right: 20px; /* Adjust for your layout */
+}
+
+/* Make sure to show the hamburger on mobile screens */
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    background-color: #333;
+    position: absolute;
+    top: 60px; /* Adjust based on the height of your navbar */
+    right: 10px;
+    width: 200px; /* Make the dropdown width bigger for visibility */
+    border-radius: 8px;
+    z-index: 1000; /* Ensures it appears above other elements */
+  }
+
+  .nav-links.show {
+    display: flex;
+  }
+
+  .nav-links li a {
+    color: white;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+  }
+}
