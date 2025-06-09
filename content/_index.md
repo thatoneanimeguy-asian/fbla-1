@@ -19,15 +19,13 @@ description: ""
 
 
 
-
-
   <div class="card">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1743437065/mcpsorg/w7hu0u7jc5lzak9ztbnz/BaseballMarch2025.jpg" alt="Card Image">
     <div class="overlay-text">The BMS baseball team.</div>
   </div>
 
 
-
+  
 
 
   <div class="card">
