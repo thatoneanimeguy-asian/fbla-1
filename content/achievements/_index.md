@@ -25,6 +25,6 @@ description: ""
 
  <div class="card">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyyzfYsmUpPN8-thecXKBDHFAqPzcs1wiWQ&s" alt="Card Image">
-      <div class="overlay-text">BMS placed 51 Students into the all-district band.</div>
+   <div class="overlay-text">BMS placed 51 Students into the all-district band.</div>
  </div>
    </div>
