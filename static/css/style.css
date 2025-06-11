@@ -1,43 +1,71 @@
-/* Basic Styles for the hamburger button */
+/* Reset & base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #333;
+  padding: 10px 20px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Hamburger button (hidden on desktop) */
 .hamburger {
   display: none;
   font-size: 30px;
-  color: white;
-  background-color: transparent;
+  background: none;
   border: none;
+  color: white;
   cursor: pointer;
-  padding: 10px;
-  position: absolute;
-  top: 20px; /* Adjust for your layout */
-  right: 20px; /* Adjust for your layout */
 }
 
-/* Make sure to show the hamburger on mobile screens */
+/* Navigation links (horizontal on desktop) */
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.nav-links li a {
+  color: white;
+  text-decoration: none;
+  padding: 8px;
+}
+
+/* MOBILE VIEW */
 @media (max-width: 768px) {
   .hamburger {
-    display: block;
+    display: block; /* show hamburger */
   }
 
   .nav-links {
-    display: none;
+    display: none; /* hide nav links by default */
     flex-direction: column;
     background-color: #333;
     position: absolute;
-    top: 60px; /* Adjust based on the height of your navbar */
-    right: 10px;
-    width: 200px; /* Make the dropdown width bigger for visibility */
+    top: 60px;
+    right: 20px;
+    width: 200px;
     border-radius: 8px;
-    z-index: 1000; /* Ensures it appears above other elements */
+    padding: 10px;
   }
 
   .nav-links.show {
-    display: flex;
+    display: flex; /* show menu when toggled */
   }
 
   .nav-links li a {
-    color: white;
     padding: 12px;
-    text-decoration: none;
-    display: block;
+    text-align: center;
   }
 }
