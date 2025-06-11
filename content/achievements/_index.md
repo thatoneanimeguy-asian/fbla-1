@@ -38,3 +38,24 @@ description: ""
   <p>BMS placed 51 Students into the all-district band.</p>
  </div>
    </div>
+
+
+   <html>
+<head>
+  <title>Text to Speech</title>
+</head>
+<body>
+
+  <p id="text-to-read">Welcome to the BMS Clubs Homepage.</p>
+  <button onclick="readText()">🔊 Read Text</button>
+
+  <script>
+    function readText() {
+      const text = document.getElementById("text-to-read").innerText;
+      const speech = new SpeechSynthesisUtterance(text);
+      window.speechSynthesis.speak(speech);
+    }
+  </script>
+
+</body>
+</html>

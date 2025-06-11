@@ -45,20 +45,26 @@
   <meta property="og:title" content="Achievements">
   <meta property="og:description" content="In FBLA, students participate in hands-on events, as well as learn business and leadership skills.A few BMS FBLA students, shown winning in video game design.
 The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.
-BMS placed 51 Students into the all-district band.">
+BMS placed 51 Students into the all-district band.
+Text to SpeechWelcome to the BMS Clubs Homepage.
+🔊 Read Text">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 
   <meta itemprop="name" content="Achievements">
   <meta itemprop="description" content="In FBLA, students participate in hands-on events, as well as learn business and leadership skills.A few BMS FBLA students, shown winning in video game design.
 The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.
-BMS placed 51 Students into the all-district band.">
-  <meta itemprop="wordCount" content="52">
+BMS placed 51 Students into the all-district band.
+Text to SpeechWelcome to the BMS Clubs Homepage.
+🔊 Read Text">
+  <meta itemprop="wordCount" content="64">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Achievements">
   <meta name="twitter:description" content="In FBLA, students participate in hands-on events, as well as learn business and leadership skills.A few BMS FBLA students, shown winning in video game design.
 The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.
-BMS placed 51 Students into the all-district band.">
+BMS placed 51 Students into the all-district band.
+Text to SpeechWelcome to the BMS Clubs Homepage.
+🔊 Read Text">
 
 	
   </head><body class="ma0 avenir bg-near-white development">
@@ -166,7 +172,23 @@ BMS placed 51 Students into the all-district band.">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyyzfYsmUpPN8-thecXKBDHFAqPzcs1wiWQ&s" alt="Description" style="width: 250px; margin-right: 10px;">
   <p>BMS placed 51 Students into the all-district band.</p>
  </div>
-   </div></section>
+   </div>
+   <html>
+<head>
+  <title>Text to Speech</title>
+</head>
+<body>
+  <p id="text-to-read">Welcome to the BMS Clubs Homepage.</p>
+  <button onclick="readText()">🔊 Read Text</button>
+  <script>
+    function readText() {
+      const text = document.getElementById("text-to-read").innerText;
+      const speech = new SpeechSynthesisUtterance(text);
+      window.speechSynthesis.speak(speech);
+    }
+  </script>
+</body>
+</html></section>
     <section class="flex-ns flex-wrap justify-around mt5">
       
     </section></article>
