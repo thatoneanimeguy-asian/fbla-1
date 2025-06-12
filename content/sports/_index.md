@@ -11,6 +11,9 @@ description: ""
   <div class="card">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs00uGc1aVmQkicIJ4fJMCT9_ClNUT8j_nlw&s" alt="Card Image">
     <div class="overlay-text">Intramurals. A fun little bit of sports; no competitiveness, just for those who want to try out sports.</div>
+        <div class="overlay">
+      <button class="audio-button" onclick="Intramurals. A fun little bit of sports; no competitiveness, just for those who want to try out sports.">🔊</button>
+    </div>
   </div>
 
 
