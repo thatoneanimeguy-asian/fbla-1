@@ -7,7 +7,40 @@
     
     <title>BMS Clubs</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="
+    <meta name="description" content="&lt;!DOCTYPE html&gt;
+
+  
+    
+    
+    {{ .Title }}
+
+    
+    
+
+    
+  
+  
+
+    
+    
+      {{ .Site.Title }}
+    
+
+    
+    
+      {{ block &#34;main&#34; . }}
+        {{ .Content }}
+      {{ end }}
+    
+
+    
+    
+      &copy; {{ now.Year }} {{ .Site.Title }}
+    
+
+    
+    
+  
 ">
     <meta name="generator" content="Hugo 0.143.1">
     
@@ -39,16 +72,17 @@
     <meta property="og:url" content="//localhost:1313/fbla-1/sports/baseof/">
   <meta property="og:site_name" content="BMS Clubs">
   <meta property="og:title" content="BMS Clubs">
-  <meta property="og:description" content="">
+  <meta property="og:description" content="&lt;!DOCTYPE html&gt;{{ .Title }}{{ .Site.Title }}{{ block &#34;main&#34; . }}{{ .Content }}{{ end }}© {{ now.Year }} {{ .Site.Title }}">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="sports">
 
   <meta itemprop="name" content="BMS Clubs">
-  <meta itemprop="description" content="">
+  <meta itemprop="description" content="&lt;!DOCTYPE html&gt;{{ .Title }}{{ .Site.Title }}{{ block &#34;main&#34; . }}{{ .Content }}{{ end }}© {{ now.Year }} {{ .Site.Title }}">
+  <meta itemprop="wordCount" content="26">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="BMS Clubs">
-  <meta name="twitter:description" content="">
+  <meta name="twitter:description" content="&lt;!DOCTYPE html&gt;{{ .Title }}{{ .Site.Title }}{{ block &#34;main&#34; . }}{{ .Content }}{{ end }}© {{ now.Year }} {{ .Site.Title }}">
 
 	
   </head><body class="ma0 avenir bg-near-white development">
@@ -151,8 +185,41 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><link rel="stylesheet" href="content/sports/styles.css">
-<script src="content/sports/script.js" defer></script><ul class="pa0">
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ .Title }}</title>
+
+    <!-- Link to your custom CSS -->
+    <link rel="stylesheet" href="/css/styles.css" />
+
+    <!-- You can also link fonts or favicon here -->
+  </head>
+  <body>
+
+    <!-- Header (optional) -->
+    <header>
+      <h1>{{ .Site.Title }}</h1>
+    </header>
+
+    <!-- Main content goes here -->
+    <main>
+      {{ block "main" . }}
+        {{ .Content }}
+      {{ end }}
+    </main>
+
+    <!-- Footer (optional) -->
+    <footer>
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+    </footer>
+
+    <!-- Link to your custom JavaScript -->
+    <script src="/js/script.js" defer></script>
+  </body>
+</html><ul class="pa0">
   
 </ul>
 <div class="mt6 instapaper_ignoref">

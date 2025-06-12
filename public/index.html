@@ -193,8 +193,41 @@ BMS theatre group after a play.The BMS baseball team.The BMS football team dur
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          <link rel="stylesheet" href="content/sports/styles.css">
-<script src="content/sports/script.js" defer></script>
+          <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ .Title }}</title>
+
+    <!-- Link to your custom CSS -->
+    <link rel="stylesheet" href="/css/styles.css" />
+
+    <!-- You can also link fonts or favicon here -->
+  </head>
+  <body>
+
+    <!-- Header (optional) -->
+    <header>
+      <h1>{{ .Site.Title }}</h1>
+    </header>
+
+    <!-- Main content goes here -->
+    <main>
+      {{ block "main" . }}
+        {{ .Content }}
+      {{ end }}
+    </main>
+
+    <!-- Footer (optional) -->
+    <footer>
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+    </footer>
+
+    <!-- Link to your custom JavaScript -->
+    <script src="/js/script.js" defer></script>
+  </body>
+</html>
         </div>
         <a href="/fbla-1/sports/baseof/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
       </div>
