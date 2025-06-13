@@ -1,34 +1,41 @@
-/* Desktop menu: visible on large screens */
-.nav-desktop {
+.card-container {
   display: flex;
-  gap: 20px;
+  justify-content: center;
+  align-items: center;
 }
 
-/* Mobile menu: hidden by default */
-.nav-mobile {
-  display: none;
-  flex-direction: column;
+.card {
+  position: relative;
+  width: 100px;  /* Adjust as necessary */
 }
 
-/* Hamburger button: hidden on desktop, shown on mobile */
-.hamburger {
-  display: none;
-  font-size: 30px;
-  background: none;
+.card-image {
+  width: 100%;
+  height: auto;
+  transition: opacity 0.3s ease;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.card:hover .overlay {
+  opacity: 1;
+}
+
+.audio-button {
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
   border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
-/* Media query for mobile screens */
-@media (max-width: 768px) {
-  .nav-desktop {
-    display: none;  /* Hide desktop menu on mobile */
-  }
-
-  .hamburger {
-    display: block;  /* Show hamburger button on mobile */
-  }
-
-  .nav-mobile.show {
-    display: flex;  /* Show mobile menu when hamburger is clicked */
-  }
+.audio-button:hover {
+  background-color: rgba(0, 0, 0, 0.7);
 }
