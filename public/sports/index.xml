@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sports on BMS Clubs</title>
-    <link>https://thatoneanimeguy-asian.github.io/fbla-1/sports/</link>
+    <link>//localhost:1313/sports/</link>
     <description>Recent content in Sports on BMS Clubs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://thatoneanimeguy-asian.github.io/fbla-1/sports/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/sports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://thatoneanimeguy-asian.github.io/fbla-1/sports/baseof/</link>
+      <link>//localhost:1313/sports/baseof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thatoneanimeguy-asian.github.io/fbla-1/sports/baseof/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xD;&#xA;  &lt;head&gt;&#xD;&#xA;    &lt;meta charset=&#34;UTF-8&#34; /&gt;&#xD;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34; /&gt;&#xD;&#xA;    &lt;title&gt;{{ .Title }}&lt;/title&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Link to your custom CSS --&gt;&#xD;&#xA;    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://thatoneanimeguy-asian.github.io/fbla-1/css/styles.css&#34; /&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- You can also link fonts or favicon here --&gt;&#xD;&#xA;  &lt;/head&gt;&#xD;&#xA;  &lt;body&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Header (optional) --&gt;&#xD;&#xA;    &lt;header&gt;&#xD;&#xA;      &lt;h1&gt;{{ .Site.Title }}&lt;/h1&gt;&#xD;&#xA;    &lt;/header&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Main content goes here --&gt;&#xD;&#xA;    &lt;main&gt;&#xD;&#xA;      {{ block &#34;main&#34; . }}&#xD;&#xA;        {{ .Content }}&#xD;&#xA;      {{ end }}&#xD;&#xA;    &lt;/main&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Footer (optional) --&gt;&#xD;&#xA;    &lt;footer&gt;&#xD;&#xA;      &lt;p&gt;&amp;copy; {{ now.Year }} {{ .Site.Title }}&lt;/p&gt;&#xD;&#xA;    &lt;/footer&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Link to your custom JavaScript --&gt;&#xD;&#xA;    &lt;script src=&#34;https://thatoneanimeguy-asian.github.io/fbla-1/js/script.js&#34; defer&gt;&lt;/script&gt;&#xD;&#xA;  &lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
+      <guid>//localhost:1313/sports/baseof/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xD;&#xA;  &lt;head&gt;&#xD;&#xA;    &lt;meta charset=&#34;UTF-8&#34; /&gt;&#xD;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34; /&gt;&#xD;&#xA;    &lt;title&gt;{{ .Title }}&lt;/title&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Link to your custom CSS --&gt;&#xD;&#xA;    &lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/styles.css&#34; /&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- You can also link fonts or favicon here --&gt;&#xD;&#xA;  &lt;/head&gt;&#xD;&#xA;  &lt;body&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Header (optional) --&gt;&#xD;&#xA;    &lt;header&gt;&#xD;&#xA;      &lt;h1&gt;{{ .Site.Title }}&lt;/h1&gt;&#xD;&#xA;    &lt;/header&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Main content goes here --&gt;&#xD;&#xA;    &lt;main&gt;&#xD;&#xA;      {{ block &#34;main&#34; . }}&#xD;&#xA;        {{ .Content }}&#xD;&#xA;      {{ end }}&#xD;&#xA;    &lt;/main&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Footer (optional) --&gt;&#xD;&#xA;    &lt;footer&gt;&#xD;&#xA;      &lt;p&gt;&amp;copy; {{ now.Year }} {{ .Site.Title }}&lt;/p&gt;&#xD;&#xA;    &lt;/footer&gt;&#xD;&#xA;&#xD;&#xA;    &lt;!-- Link to your custom JavaScript --&gt;&#xD;&#xA;    &lt;script src=&#34;//localhost:1313/js/script.js&#34; defer&gt;&lt;/script&gt;&#xD;&#xA;  &lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
     </item>
   </channel>
 </rss>
