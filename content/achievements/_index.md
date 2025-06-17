@@ -4,39 +4,7 @@ featured_image: ''
 description: ""
 ---
 
-<div class="card-container">
- <div class="card">
-    <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1689019814/mcpsorg/sgvky6zhwewlp1xskuik/MemberswithMedals.jpg" alt="Card Image">
-    <div class="overlay-text">A few BMS FBLA students, shown winning in video game design.</div>
-  </div>
-
-
-
-
-
- <div class="card">
-     <img src="https://mathcounts.godmar.me/assets/images/mc-2025-team-win-small-ce539f3561932a383062c9f6488a7759.jpg" alt="Card Image">
-     <div class="overlay-text">The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.</div>
-  </div>
-
-
-
-
-
-
- <div class="card">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyyzfYsmUpPN8-thecXKBDHFAqPzcs1wiWQ&s" alt="Description" style="width: 250px; margin-right: 10px;">
-  <div class="overlay-text">BMS got 51 students into all district band</div>
- </div>
-
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Text to Speech</title>
-</head>
-<body>
-
+<div style="margin-top: 40px;">
   <p id="text-to-read">Welcome to the BMS Clubs Homepage.</p>
   <button onclick="readText()">🔊 Read Text</button>
 
@@ -47,6 +15,22 @@ description: ""
       window.speechSynthesis.speak(speech);
     }
   </script>
+</div>
 
-</body>
-</html>
+<div class="card-container">
+  <div class="card">
+    <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1689019814/mcpsorg/sgvky6zhwewlp1xskuik/MemberswithMedals.jpg" alt="Card Image">
+    <div class="overlay-text">A few BMS FBLA students, shown winning in video game design.</div>
+  </div>
+
+  <div class="card">
+    <img src="https://mathcounts.godmar.me/assets/images/mc-2025-team-win-small-ce539f3561932a383062c9f6488a7759.jpg" alt="Card Image">
+    <div class="overlay-text">The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.</div>
+  </div>
+
+  <div class="card">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyyzfYsmUpPN8-thecXKBDHFAqPzcs1wiWQ&s" alt="Description" style="width: 250px; margin-right: 10px;">
+    <div class="overlay-text">BMS got 51 students into all district band</div>
+  </div>
+</div>
+
