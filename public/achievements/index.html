@@ -43,19 +43,16 @@
     <meta property="og:url" content="//localhost:1313/fbla-1/achievements/">
   <meta property="og:site_name" content="BMS Clubs">
   <meta property="og:title" content="Achievements">
-  <meta property="og:description" content="Welcome to the BMS Clubs Homepage.
-🔊 Read TextA few BMS FBLA students, shown winning in video game design.The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.BMS got 51 students into all district band">
+  <meta property="og:description" content="A few BMS FBLA students, shown winning in video game design.The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.BMS got 51 students into all district band🔊🔊">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 
   <meta itemprop="name" content="Achievements">
-  <meta itemprop="description" content="Welcome to the BMS Clubs Homepage.
-🔊 Read TextA few BMS FBLA students, shown winning in video game design.The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.BMS got 51 students into all district band">
-  <meta itemprop="wordCount" content="46">
+  <meta itemprop="description" content="A few BMS FBLA students, shown winning in video game design.The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.BMS got 51 students into all district band🔊🔊">
+  <meta itemprop="wordCount" content="39">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Achievements">
-  <meta name="twitter:description" content="Welcome to the BMS Clubs Homepage.
-🔊 Read TextA few BMS FBLA students, shown winning in video game design.The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.BMS got 51 students into all district band">
+  <meta name="twitter:description" content="A few BMS FBLA students, shown winning in video game design.The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.BMS got 51 students into all district band🔊🔊">
 
 	
   </head><body class="ma0 avenir bg-near-white development">
@@ -146,18 +143,7 @@
     <main class="pb7" role="main">
       
   <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"><div style="margin-top: 40px;">
-  <p id="text-to-read">Welcome to the BMS Clubs Homepage.</p>
-  <button onclick="readText()">🔊 Read Text</button>
-  <script>
-    function readText() {
-      const text = document.getElementById("text-to-read").innerText;
-      const speech = new SpeechSynthesisUtterance(text);
-      window.speechSynthesis.speak(speech);
-    }
-  </script>
-</div>
-<div class="card-container">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"><div class="card-container">
   <div class="card">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1689019814/mcpsorg/sgvky6zhwewlp1xskuik/MemberswithMedals.jpg" alt="Card Image">
     <div class="overlay-text">A few BMS FBLA students, shown winning in video game design.</div>
@@ -171,7 +157,24 @@
     <div class="overlay-text">BMS got 51 students into all district band</div>
   </div>
 </div>
-</section>
+<div>
+  <button onclick="readText()">🔊</button>
+  <script>
+    function readText() {
+      const text = "The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.";
+      const speech = new SpeechSynthesisUtterance(text);
+      window.speechSynthesis.speak(speech);
+    }
+  </script>
+<p><button onclick="readText()">🔊</button></p>
+  <script>
+    function readText() {
+      const text = "BMS got 51 students into all district band";
+      const speech = new SpeechSynthesisUtterance(text);
+      window.speechSynthesis.speak(speech);
+    }
+  </script>
+</div></section>
     <section class="flex-ns flex-wrap justify-around mt5">
       
     </section></article>
