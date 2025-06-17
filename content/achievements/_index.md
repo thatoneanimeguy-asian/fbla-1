@@ -11,18 +11,25 @@ description: ""
   </div>
 </div>
 
-<div style="margin-top: 40px;">
-  <p id="text-to-read">A few BMS FBLA students, shown winning in video game design.</p>
-  <button onclick="readText()">🔊 Read Text</button>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Text to Speech</title>
+</head>
+<body>
+
+  <button onclick="readText()">🔊</button>
 
   <script>
     function readText() {
-      const text = document.getElementById("text-to-read").innerText;
+      const text = "A few BMS FBLA students, shown winning in video game design.";
       const speech = new SpeechSynthesisUtterance(text);
       window.speechSynthesis.speak(speech);
     }
   </script>
 
+</body>
+</html>
 <div class="card-container">
   <div class="card">
     <img src="https://mathcounts.godmar.me/assets/images/mc-2025-team-win-small-ce539f3561932a383062c9f6488a7759.jpg" alt="Card Image">
@@ -30,13 +37,18 @@ description: ""
   </div>
 </div>
 
-<div style="margin-top: 40px;">
-  <p id="text-to-read">The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.</p>
-  <button onclick="readText()">🔊 Read Text</button>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Text to Speech</title>
+</head>
+<body>
+
+  <button onclick="readText()">🔊</button>
 
   <script>
     function readText() {
-      const text = document.getElementById("text-to-read").innerText;
+      const text = "The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.";
       const speech = new SpeechSynthesisUtterance(text);
       window.speechSynthesis.speak(speech);
     }
@@ -51,23 +63,19 @@ description: ""
 
 
 
-<div style="
-  display: flex;
-  gap: 20px;
-  align-items: center;
-  justify-content: center;
-">
-  <div>
-    <button onclick="readText('The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.')">🔊</button>
-  </div>
-  <div>
-    <button onclick="readText('BMS placed 51 Students into the all-district band.')">🔊 </button>
-  </div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Text to Speech</title>
+</head>
+<body>
 
-<script>
-  function readText(text) {
-    const speech = new SpeechSynthesisUtterance(text);
-    window.speechSynthesis.speak(speech);
-  }
-</script>
+  <button onclick="readText()">🔊</button>
+
+  <script>
+    function readText() {
+      const text = "BMS placed 51 Students into the all-district band.";
+      const speech = new SpeechSynthesisUtterance(text);
+      window.speechSynthesis.speak(speech);
+    }
+  </script>
