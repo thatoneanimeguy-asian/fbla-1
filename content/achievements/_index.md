@@ -35,7 +35,6 @@ description: ""
       window.speechSynthesis.speak(speech);
     }
   </script>
-</div>
 
 <div class="card-container">
   <div class="card">
@@ -55,7 +54,6 @@ description: ""
       window.speechSynthesis.speak(speech);
     }
   </script>
-</div>
 
 <div class="card-container">
   <div class="card">
