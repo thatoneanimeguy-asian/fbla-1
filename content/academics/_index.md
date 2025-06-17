@@ -167,3 +167,29 @@ description: ""
     window.speechSynthesis.speak(speech);
   }
 </script>
+<div class="card-container">
+  <div class="card">
+    <img src="https://storage.googleapis.com/stateless-mountainmedianews-co/sites/19/2024/08/1-BMS-FBLA-team.jpg" alt="Card Image">
+    <div class="overlay-text">Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.</div>
+  </div>
+</div>
+</div>  
+
+
+  <div style="
+  display: flex;
+  gap: 285px;
+  align-items: center;
+  justify-content: center;
+">
+  <div>
+    <button onclick="readText('Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.')">🔊</button>
+  </div>
+</div>
+
+<script>
+  function readText(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(speech);
+  }
+</script>
