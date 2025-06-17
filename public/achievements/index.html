@@ -8,7 +8,7 @@
     <title>Achievements | BMS Clubs</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="">
-    <meta name="generator" content="Hugo 0.145.0">
+    <meta name="generator" content="Hugo 0.143.0">
     
     
     
@@ -43,19 +43,19 @@
     <meta property="og:url" content="//localhost:1313/fbla-1/achievements/">
   <meta property="og:site_name" content="BMS Clubs">
   <meta property="og:title" content="Achievements">
-  <meta property="og:description" content="A few BMS FBLA students, shown winning in video game design.A few BMS FBLA students, shown winning in video game design.
-🔊 Read TextThe Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.">
+  <meta property="og:description" content="A few BMS FBLA students, shown winning in video game design. A few BMS FBLA students, shown winning in video game design.
+🔊 Read Text The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round. The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 
   <meta itemprop="name" content="Achievements">
-  <meta itemprop="description" content="A few BMS FBLA students, shown winning in video game design.A few BMS FBLA students, shown winning in video game design.
-🔊 Read TextThe Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.">
+  <meta itemprop="description" content="A few BMS FBLA students, shown winning in video game design. A few BMS FBLA students, shown winning in video game design.
+🔊 Read Text The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round. The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.">
   <meta itemprop="wordCount" content="74">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Achievements">
-  <meta name="twitter:description" content="A few BMS FBLA students, shown winning in video game design.A few BMS FBLA students, shown winning in video game design.
-🔊 Read TextThe Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.">
+  <meta name="twitter:description" content="A few BMS FBLA students, shown winning in video game design. A few BMS FBLA students, shown winning in video game design.
+🔊 Read Text The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round. The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.">
 
 	
   </head><body class="ma0 avenir bg-near-white development">
@@ -184,31 +184,25 @@
     <div class="overlay-text">BMS placed 51 Students into the all-district band.</div>
   </div>
 </div>
-<div>
-  <button onclick="readText()">🔊</button>
-  <script>
-    function readText() {
-      const text = "The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.";
-      const speech = new SpeechSynthesisUtterance(text);
-      window.speechSynthesis.speak(speech);
-    }
-  </script>
-<p><button onclick="readText()">🔊</button></p>
-  <script>
-    function readText() {
-      const text = "BMS got 51 students into all district band";
-<div style="margin-top: 40px;">
-  <p id="text-to-read">BMS placed 51 Students into the all-district band.</p>
-  <button onclick="readText()">🔊 Read Text</button>
-
-  <script>
-    function readText() {
-      const text = document.getElementById("text-to-read").innerText;
-      const speech = new SpeechSynthesisUtterance(text);
-      window.speechSynthesis.speak(speech);
-    }
-  </script>
-</div></section>
+<div style="
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+">
+  <div>
+    <button onclick="readText('The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('BMS placed 51 Students into the all-district band.')">🔊 </button>
+  </div>
+</div>
+<script>
+  function readText(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(speech);
+  }
+</script></section>
     <section class="flex-ns flex-wrap justify-around mt5">
       
     </section></article>
