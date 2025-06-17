@@ -51,33 +51,23 @@ description: ""
 
 
 
-<div>
-  <button onclick="readText()">🔊</button>
-
-  <script>
-    function readText() {
-      const text = "The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.";
-      const speech = new SpeechSynthesisUtterance(text);
-      window.speechSynthesis.speak(speech);
-    }
-  </script>
-
-
-
-  <button onclick="readText()">🔊</button>
-
-  <script>
-    function readText() {
-      const text = "BMS got 51 students into all district band";
-<div style="margin-top: 40px;">
-  <p id="text-to-read">BMS placed 51 Students into the all-district band.</p>
-  <button onclick="readText()">🔊 Read Text</button>
-
-  <script>
-    function readText() {
-      const text = document.getElementById("text-to-read").innerText;
-      const speech = new SpeechSynthesisUtterance(text);
-      window.speechSynthesis.speak(speech);
-    }
-  </script>
+<div style="
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+">
+  <div>
+    <button onclick="readText('The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('BMS placed 51 Students into the all-district band.')">🔊 </button>
+  </div>
 </div>
+
+<script>
+  function readText(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(speech);
+  }
+</script>
