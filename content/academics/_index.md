@@ -153,9 +153,6 @@ description: ""
   <div>
     <button onclick="readText('In history club, students get a chance to learn about the wonders of the world, and also can participate in the 2025 Virginia History Day Contest.')">🔊</button>
   </div>
-  <div>
-    <button onclick="readText('In Mathcounts, students learn about many different parts of math, and get to participate in fun math contests.')">🔊</button>
-  </div>
 </div>
 
 <script>
