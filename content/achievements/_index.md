@@ -26,5 +26,5 @@ description: ""
 
   <div class="card">
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyyzfYsmUpPN8-thecXKBDHFAqPzcs1wiWQ&s" alt="Description" style="width: 250px; margin-right: 10px;">
-     <div class="overlay-text">BMS got 51 students into all district band</div>
+     <div class="overlay-text">BMS placed 51 Students into the all-district band.</div>
   </div>
