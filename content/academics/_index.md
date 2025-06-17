@@ -123,14 +123,6 @@ description: ""
     <img src="https://images.squarespace-cdn.com/content/v1/63d40fe2cbd65e16cb8098b6/e5434385-f0d5-420d-bab0-653a932ab3c0/mathcounts" alt="Card Image">
     <div class="overlay-text">In Mathcounts, students learn about many different parts of math, and get to participate in fun math contests.</div>
   </div>
- 
-
-
-
-
-  <div class="card">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHYVZzvyuXS353QOYjXCaos2wIcJ-MskXxg&s" alt="Card Image">
-    <div class="overlay-text">Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.</div>
 </div>
 </div>  
 
@@ -152,6 +144,9 @@ description: ""
   </div>
   <div>
     <button onclick="readText('In history club, students get a chance to learn about the wonders of the world, and also can participate in the 2025 Virginia History Day Contest.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('In Mathcounts, students learn about many different parts of math, and get to participate in fun math contests.')">🔊</button>
   </div>
 </div>
 
