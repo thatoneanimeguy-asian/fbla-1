@@ -7,6 +7,8 @@ description: ""
 <p>Hover over or click on an image to learn about the respective club.<p>
 </div>
 
+
+
 <div class="card-container">
   <div class="card">
     <img src="https://storage.googleapis.com/stateless-mountainmedianews-co/sites/19/2024/08/1-BMS-FBLA-team.jpg" alt="Card Image">
@@ -14,14 +16,10 @@ description: ""
   </div>
 
 
-
-
-
   <div class="card">
     <img src="https://t3.ftcdn.net/jpg/02/96/60/70/360_F_296607002_qXcuGBZXQdD5z7NY4ofXNlskMUNItNYZ.jpg" alt="Card Image">
     <div class="overlay-text">In ASL (American Sign Language) club, students learn about the importance of sign language, and how to use it.</div>
   </div>
-
 
 
 
@@ -128,6 +126,8 @@ description: ""
     <button onclick="readText('Robotics club allows students to play around with robots, while also being able to do other STEM activities, such as the First Tech Challenge.')">🔊</button>
   </div>
   <div>
+
+">
       <button onclick="readText('In French club, students can explore the wonders of France, while participating in many fun activities.')">🔊</button>
   </div>
   <div>
