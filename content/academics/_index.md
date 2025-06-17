@@ -156,9 +156,6 @@ description: ""
   <div>
     <button onclick="readText('In Mathcounts, students learn about many different parts of math, and get to participate in fun math contests.')">🔊</button>
   </div>
-  <div>
-    <button onclick="readText('Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.')">🔊</button>
-  </div>
 </div>
 
 <script>
@@ -169,7 +166,7 @@ description: ""
 </script>
 <div class="card-container">
   <div class="card">
-    <img src="https://storage.googleapis.com/stateless-mountainmedianews-co/sites/19/2024/08/1-BMS-FBLA-team.jpg" alt="Card Image">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHYVZzvyuXS353QOYjXCaos2wIcJ-MskXxg&s" alt="Card Image">
     <div class="overlay-text">Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.</div>
   </div>
 </div>
