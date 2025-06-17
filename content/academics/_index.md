@@ -142,21 +142,6 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button onclick="readText('In FBLA, students participate in hands-on events, as well as learn business and leadership skills.')">🔊</button>
-  </div>
-  <div>
-    <button onclick="readText('In ASL (American Sign Language) club, students learn about the importance of sign language, and how to use it.')">🔊</button>
-  </div>
-  <div>
-    <button onclick="readText('If you like writing, literary magazine club is the place to go! With many different styles, such as poems and artwork, you can find fun and joy in writing, and possibly improve your English grade.')">🔊</button>
-  </div>
-  <div>
-    <button onclick="readText('FFA (Future Farmers of America) encourages students to improve leadership skills, while also teaching them about agriculture and such.')">🔊</button>
-  </div>
-  <div>
-    <button onclick="readText('FCCLA (Family, Career and Community Leaders of America) helps students develop community and leadership skills, while also doing fun food-related activities.')">🔊</button>
-  </div>
-  <div>
     <button onclick="readText('Robotics club allows students to play around with robots, while also being able to do other STEM activities, such as the First Tech Challenge.')">🔊</button>
   </div>
   <div>
