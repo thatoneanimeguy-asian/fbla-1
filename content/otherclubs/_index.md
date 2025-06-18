@@ -49,3 +49,34 @@ description: ""
     <div class="overlay-text">FCA (Fellowship of Christian Athletes) is for people to meet and work as a team in various activities, while following biblical principles.</div>
   </div>
     </div>  
+
+     
+<div style="
+  display: flex;
+  gap: 285px;
+  align-items: center;
+  justify-content: center;
+">
+  <div>
+    <button onclick="readText('COAST (Community Outreach Actively  Supporting Task force) is a club that helps the local community, and also allows for students to participate in events that require teamwork and collaboration skills.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('In yearbook club, students can help construct this year's yearbook.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('Pride club is for people that are LGBTQ+ to feel at home.')">🔊</button>
+  </div>
+</div>
+<button onclick="readText('If you like field trips and traveling, TICKET club (Travel, International, Cultures, Knowledge, Education, Tourism) is something that you would enjoy.')">🔊</button>
+  </div>
+</div>
+<button onclick="readText('FCA (Fellowship of Christian Athletes) is for people to meet and work as a team in various activities, while following biblical principles.')">🔊</button>
+  </div>
+</div>
+
+<script>
+  function readText(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(speech);
+  }
+</script>
