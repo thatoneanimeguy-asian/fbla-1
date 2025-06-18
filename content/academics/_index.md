@@ -6,38 +6,6 @@ description: ""
 
 <p>Hover over or click on an image to learn about the respective club.<p>
 </div>
-</div>  
-
-
-  <div style="
-  display: flex;
-  gap: 285px;
-  align-items: center;
-  justify-content: center;
-">
-  <div>
-    <button onclick="readText('In FBLA, students participate in hands-on events, as well as learn business and leadership skills.')">🔊</button>
-  </div>
-  <div>
-    <button onclick="readText('In ASL (American Sign Language) club, students learn about the importance of sign language, and how to use it.')">🔊</button>
-  </div>
-  <div>
-    <button onclick="readText('If you like writing, literary magazine club is the place to go! With many different styles, such as poems and artwork, you can find fun and joy in writing, and possibly improve your English grade.')">🔊</button>
-  </div>
-  <div>
-    <button onclick="readText('FFA (Future Farmers of America) encourages students to improve leadership skills, while also teaching them about agriculture and such.')">🔊</button>
-  </div>
-  <div>
-    <button onclick="readText('FCCLA (Family, Career and Community Leaders of America) helps students develop community and leadership skills, while also doing fun food-related activities.')">🔊</button>
-  </div>
-</div>
-
-<script>
-  function readText(text) {
-    const speech = new SpeechSynthesisUtterance(text);
-    window.speechSynthesis.speak(speech);
-  }
-</script>
 
 
 
@@ -77,11 +45,42 @@ description: ""
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnk9nyMp-BV3PsYz9DP_CHF6N8DT3uoKH5ow&s" alt="Card Image">
     <div class="overlay-text">FCCLA (Family, Career and Community Leaders of America) helps students develop community and leadership skills, while also doing fun food-related activities.</div>
   </div>
+</div>
+
+</div>  
 
 
+  <div style="
+  display: flex;
+  gap: 285px;
+  align-items: center;
+  justify-content: center;
+">
+  <div>
+    <button onclick="readText('In FBLA, students participate in hands-on events, as well as learn business and leadership skills.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('In ASL (American Sign Language) club, students learn about the importance of sign language, and how to use it.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('If you like writing, literary magazine club is the place to go! With many different styles, such as poems and artwork, you can find fun and joy in writing, and possibly improve your English grade.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('FFA (Future Farmers of America) encourages students to improve leadership skills, while also teaching them about agriculture and such.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('FCCLA (Family, Career and Community Leaders of America) helps students develop community and leadership skills, while also doing fun food-related activities.')">🔊</button>
+  </div>
+</div>
 
+<script>
+  function readText(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(speech);
+  }
+</script>
 
-
+<div class="card-container">
   <div class="card">
     <img src="https://www.robotc.net/images/download-vex.jpg" alt="Card Image">
     <div class="overlay-text">Robotics club allows students to play around with robots, while also being able to do other STEM activities, such as the First Tech Challenge.</div>
@@ -135,9 +134,7 @@ description: ""
     <button onclick="readText('Robotics club allows students to play around with robots, while also being able to do other STEM activities, such as the First Tech Challenge.')">🔊</button>
   </div>
   <div>
-
-">
-      <button onclick="readText('In French club, students can explore the wonders of France, while participating in many fun activities.')">🔊</button>
+    <button onclick="readText('In French club, students can explore the wonders of France, while participating in many fun activities.')">🔊</button>
   </div>
   <div>
     <button onclick="readText('In TSA (Technology Student Association), students learn about leadership, friendship, and community service, while also having access to 3D printers and CNC routers.')">🔊</button>
