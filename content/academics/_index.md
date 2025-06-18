@@ -134,9 +134,7 @@ description: ""
     <button onclick="readText('Robotics club allows students to play around with robots, while also being able to do other STEM activities, such as the First Tech Challenge.')">🔊</button>
   </div>
   <div>
-
-">
-      <button onclick="readText('In French club, students can explore the wonders of France, while participating in many fun activities.')">🔊</button>
+    <button onclick="readText('In French club, students can explore the wonders of France, while participating in many fun activities.')">🔊</button>
   </div>
   <div>
     <button onclick="readText('In TSA (Technology Student Association), students learn about leadership, friendship, and community service, while also having access to 3D printers and CNC routers.')">🔊</button>
