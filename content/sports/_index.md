@@ -11,9 +11,6 @@ description: ""
   <div class="card">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs00uGc1aVmQkicIJ4fJMCT9_ClNUT8j_nlw&s" alt="Card Image">
     <div class="overlay-text">Intramurals. A fun little bit of sports; no competitiveness, just for those who want to try out sports.</div>
-        <div class="overlay">
-      <button class="audio-button" onclick="speakText('Intramurals. A fun little bit of sports; no competitiveness, just for those who want to try out sports.')">🔊</button>
-    </div>
   </div>
 
 
@@ -48,10 +45,41 @@ description: ""
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1743437065/mcpsorg/w7hu0u7jc5lzak9ztbnz/BaseballMarch2025.jpg" alt="Card Image">
     <div class="overlay-text">BMS offers a fun and competitive baseball team.</div>
   </div>
+</div>
+</div>  
 
 
+  <div style="
+  display: flex;
+  gap: 285px;
+  align-items: center;
+  justify-content: center;
+">
+  <div>
+    <button onclick="readText('Intramurals. A fun little bit of sports; no competitiveness, just for those who want to try out sports.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('Weight Club. Its a place after school to develop your muscles safely, while still having lots of fun.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('Boys soccer is a competitive, fun, and an enjoyable experience with a total of 16 games and practices on Mondays.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('BMS girls soccer team is one of the best in Virginia, with fun and competetive games and practices.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('BMS offers a fun and competitive baseball team.')">🔊</button>
+  </div>
+</div>
 
+<script>
+  function readText(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(speech);
+  }
+</script>
 
+<div class="card-container">
   <div class="card">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706305102/mcpsorg/zdkwe15fff3k3k0bhzav/Trackandfieldpicforwebsite.jpg" alt="Card Image">
     <div class="overlay-text">In track and field, athletes can participate in running events, and have chances of winning medals!</div>
@@ -90,11 +118,42 @@ description: ""
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1716897080/mcpsorg/npypd4xr7ffco3tiqdgy/Cheerleadingpic.jpg" alt="Card Image">
     <div class="overlay-text">Girls can try out for cheerleading team, allowing them to have fun and represent BMS.</div>
   </div>
+</div>
+</div>  
 
 
+  <div style="
+  display: flex;
+  gap: 285px;
+  align-items: center;
+  justify-content: center;
+">
+  <div>
+    <button onclick="readText('In track and field, athletes can participate in running events, and have chances of winning medals!')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('BMS has a great girls softball team. They have practices and games that are fun and intense.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('Boys basketball provides intensive training for a fun and competitive game.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('A competitive league of basketball with intense training and fun games for girls.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('Girls can try out for cheerleading team, allowing them to have fun and represent BMS.')">🔊</button>
+  </div>
+</div>
+
+<script>
+  function readText(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(speech);
+  }
+</script>
 
 
-
+<div class="card-container">
   <div class="card">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1694097997/mcpsorg/wqz1kngpmrc2d6acyuyu/wrestling.jpg" alt="Card Image">
     <div class="overlay-text">In wrestling, kids can learn about how to wrestle, and have fun doing so.</div>
@@ -135,11 +194,42 @@ description: ""
     <img src="https://resources.finalsite.net/images/f_auto,q_auto/v1690389954/mcpsorg/wpbnnaxlfzvnfthx7fw5/Swimanddiveforwebsite.jpg" alt="Card Image">
     <div class="overlay-text">In swim and dive those who love swimming and diving can enjoy the water together.</div>
   </div>
+</div>
+</div>  
 
 
+  <div style="
+  display: flex;
+  gap: 285px;
+  align-items: center;
+  justify-content: center;
+">
+  <div>
+    <button onclick="readText('In wrestling, kids can learn about how to wrestle, and have fun doing so.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('In cross country, kids can improve their stamina by practicing long distance running, while also being able to have a good time.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('In BMS football everyone can have fun playing football while exercising and competing with others.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('In BMS golf everyone can have fun hitting a golf ball and competing in golf matches.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('In swim and dive those who love swimming and diving can enjoy the water together.')">🔊</button>
+  </div>
+</div>
+
+<script>
+  function readText(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(speech);
+  }
+</script>
 
 
-
+<div class="card-container">
   <div class="card">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690390137/mcpsorg/xa2znm90wl57fiy5yvew/Volleyballforwebsite.jpg" alt="Card Image">
     <div class="overlay-text">A sport team specifically for girls. It's fun and competitive volleyball.</div>
@@ -161,3 +251,29 @@ description: ""
     <div class="overlay-text">BMS Taekwondo Club is an organization that promotes martial arts practice and comradery. It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo.</div>
   </div>
 </div>
+</div>  
+
+
+  <div style="
+  display: flex;
+  gap: 285px;
+  align-items: center;
+  justify-content: center;
+">
+  <div>
+    <button onclick="readText('A sport team specifically for girls. Its fun and competitive volleyball.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('Pickleball club allows students to exercise regularly, while still being able to build community and have lots of fun!')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('BMS Taekwondo Club is an organization that promotes martial arts practice and comradery. It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo.')">🔊</button>
+  </div>
+</div>
+
+<script>
+  function readText(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(speech);
+  }
+</script>
