@@ -71,7 +71,6 @@ description: ""
     <button onclick="readText('BMS offers a fun and competitive baseball team.')">🔊</button>
   </div>
 </div>
-
 <script>
   function readText(text) {
     const speech = new SpeechSynthesisUtterance(text);
