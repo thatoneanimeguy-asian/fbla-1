@@ -33,3 +33,27 @@ description: ""
     <div class="overlay-text">The BMS football team during a game.</div>
   </div>
     </div>
+
+  <div style="
+  display: flex;
+  gap: 285px;
+  align-items: center;
+  justify-content: center;
+">
+  <div>
+    <button onclick="readText('BMS theatre group after a play.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('The BMS baseball team.')">🔊</button>
+  </div>
+  <div>
+    <button onclick="readText('The BMS football team during a game.')">🔊</button>
+  </div>
+</div>
+
+<script>
+  function readText(text) {
+    const speech = new SpeechSynthesisUtterance(text);
+    window.speechSynthesis.speak(speech);
+  }
+</script>
