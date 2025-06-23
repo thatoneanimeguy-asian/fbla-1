@@ -48,11 +48,11 @@ description: ""
   <div>
     <button onclick="readText('Art club. A place where you can use your imagination and create beautiful drawings, art, sketches, etc.')">🔊</button>
   </div>
-</div>
-<button onclick="readText('In Drama Club, students have a chance to pursue acting careers, and can participate in the playing of Elf The Musical, Jr.')">🔊</button>
   </div>
-</div>
-<button onclick="readText('Chess club is a place to hang out, talk, and play chess. Chess also helps develop your intellectual capabilities.')">🔊</button>
+    <button onclick="readText('In Drama Club, students have a chance to pursue acting careers, and can participate in the playing of Elf The Musical, Jr.')">🔊</button>
+  </div>
+  </div>
+    <button onclick="readText('Chess club is a place to hang out, talk, and play chess. Chess also helps develop your intellectual capabilities.')">🔊</button>
   </div>
 </div>
 
