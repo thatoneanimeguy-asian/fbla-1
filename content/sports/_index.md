@@ -27,12 +27,12 @@ description: ""
 .card-image-wrapper {
   position: relative;
   width: 100%;
-  height: 90%
+  height: 80%
 }
 .card img {
   width: 100%;
   display: block;
-  height: 85%;
+  height: 80%;
 }
 /* Hover overlay text */
 .overlay-text {
