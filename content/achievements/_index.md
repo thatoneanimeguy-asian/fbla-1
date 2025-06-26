@@ -25,7 +25,22 @@ description: ""
     <div class="overlay-text">BMS placed 51 Students into the all-district band.</div>
 </div>
 </div>
-
+  <style>
+.audio-button {
+  font-size: 30px;
+  padding: 10px 12px;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.audio-button:hover {
+  background-color: #3498db; /* blue on hover */
+  transform: scale(1.15);     /* slight grow */
+  color: white;               /* icon/text turns white */
+}
+</style>
 
   <div style="
   display: flex;
@@ -34,13 +49,13 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('A few BMS FBLA students, shown winning in video game design.')">🔊</button>
+    <button class="audio-button" onclick="readText('A few BMS FBLA students, shown winning in video game design.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.')">🔊</button>
+    <button class="audio-button" onclick="readText('The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('BMS placed 51 Students into the all-district band.')">🔊</button>
+    <button class="audio-button" onclick="readText('BMS placed 51 Students into the all-district band.')">🔊</button>
   </div>
 </div>
 

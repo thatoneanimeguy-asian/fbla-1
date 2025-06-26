@@ -48,7 +48,22 @@ description: ""
 </div>
 
 </div>  
-
+<style>
+.audio-button {
+  font-size: 30px;
+  padding: 10px 12px;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.audio-button:hover {
+  background-color: #3498db; /* blue on hover */
+  transform: scale(1.15);     /* slight grow */
+  color: white;               /* icon/text turns white */
+}
+</style>
 
   <div style="
   display: flex;
@@ -57,19 +72,19 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('Intramurals. A fun little bit of sports; no competitiveness, just for those who want to try out sports.')">🔊</button>
+    <button class="audio-button" onclick="readText('Intramurals. A fun little bit of sports; no competitiveness, just for those who want to try out sports.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('Weight Club. Its a place after school to develop your muscles safely, while still having lots of fun.')">🔊</button>
+    <button class="audio-button" onclick="readText('Weight Club. Its a place after school to develop your muscles safely, while still having lots of fun.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('Boys soccer is a competitive, fun, and an enjoyable experience with a total of 16 games and practices on Mondays.')">🔊</button>
+    <button class="audio-button" onclick="readText('Boys soccer is a competitive, fun, and an enjoyable experience with a total of 16 games and practices on Mondays.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('BMS girls soccer team is one of the best in Virginia, with fun and competetive games and practices.')">🔊</button>
+    <button class="audio-button" onclick="readText('BMS girls soccer team is one of the best in Virginia, with fun and competetive games and practices.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('BMS offers a fun and competitive baseball team.')">🔊</button>
+    <button class="audio-button" onclick="readText('BMS offers a fun and competitive baseball team.')">🔊</button>
   </div>
 </div>
 
@@ -121,7 +136,22 @@ description: ""
   </div>
 </div>
 </div>  
-
+<style>
+.audio-button {
+  font-size: 30px;
+  padding: 10px 12px;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.audio-button:hover {
+  background-color: #3498db; /* blue on hover */
+  transform: scale(1.15);     /* slight grow */
+  color: white;               /* icon/text turns white */
+}
+</style>
 
   <div style="
   display: flex;
@@ -130,19 +160,19 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In track and field, athletes can participate in running events, and have chances of winning medals!')">🔊</button>
+    <button class="audio-button" onclick="readText('In track and field, athletes can participate in running events, and have chances of winning medals!')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('BMS has a great girls softball team. They have practices and games that are fun and intense.')">🔊</button>
+    <button class="audio-button" onclick="readText('BMS has a great girls softball team. They have practices and games that are fun and intense.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('Boys basketball provides intensive training for a fun and competitive game.')">🔊</button>
+    <button class="audio-button" onclick="readText('Boys basketball provides intensive training for a fun and competitive game.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('A competitive league of basketball with intense training and fun games for girls.')">🔊</button>
+    <button class="audio-button" onclick="readText('A competitive league of basketball with intense training and fun games for girls.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('Girls can try out for cheerleading team, allowing them to have fun and represent BMS.')">🔊</button>
+    <button class="audio-button" onclick="readText('Girls can try out for cheerleading team, allowing them to have fun and represent BMS.')">🔊</button>
   </div>
 </div>
 
@@ -197,7 +227,22 @@ description: ""
   </div>
 </div>
 </div>  
-
+<style>
+.audio-button {
+  font-size: 30px;
+  padding: 10px 12px;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.audio-button:hover {
+  background-color: #3498db; /* blue on hover */
+  transform: scale(1.15);     /* slight grow */
+  color: white;               /* icon/text turns white */
+}
+</style>
 
   <div style="
   display: flex;
@@ -206,19 +251,19 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In wrestling, kids can learn about how to wrestle, and have fun doing so.')">🔊</button>
+    <button class="audio-button" onclick="readText('In wrestling, kids can learn about how to wrestle, and have fun doing so.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In cross country, kids can improve their stamina by practicing long distance running, while also being able to have a good time.')">🔊</button>
+    <button class="audio-button" onclick="readText('In cross country, kids can improve their stamina by practicing long distance running, while also being able to have a good time.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In BMS football everyone can have fun playing football while exercising and competing with others.')">🔊</button>
+    <button class="audio-button" onclick="readText('In BMS football everyone can have fun playing football while exercising and competing with others.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In BMS golf everyone can have fun hitting a golf ball and competing in golf matches.')">🔊</button>
+    <button class="audio-button" onclick="readText('In BMS golf everyone can have fun hitting a golf ball and competing in golf matches.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In swim and dive those who love swimming and diving can enjoy the water together.')">🔊</button>
+    <button class="audio-button" onclick="readText('In swim and dive those who love swimming and diving can enjoy the water together.')">🔊</button>
   </div>
 </div>
 
@@ -253,7 +298,22 @@ description: ""
   </div>
 </div>
 </div>  
-
+<style>
+.audio-button {
+  font-size: 30px;
+  padding: 10px 12px;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.audio-button:hover {
+  background-color: #3498db; /* blue on hover */
+  transform: scale(1.15);     /* slight grow */
+  color: white;               /* icon/text turns white */
+}
+</style>
 
   <div style="
   display: flex;
@@ -262,13 +322,13 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('A sport team specifically for girls. Its fun and competitive volleyball.')">🔊</button>
+    <button class="audio-button" onclick="readText('A sport team specifically for girls. Its fun and competitive volleyball.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('Pickleball club allows students to exercise regularly, while still being able to build community and have lots of fun!')">🔊</button>
+    <button class="audio-button" onclick="readText('Pickleball club allows students to exercise regularly, while still being able to build community and have lots of fun!')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('BMS Taekwondo Club is an organization that promotes martial arts practice and comradery. It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo.')">🔊</button>
+    <button class="audio-button" onclick="readText('BMS Taekwondo Club is an organization that promotes martial arts practice and comradery. It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo.')">🔊</button>
   </div>
 </div>
 

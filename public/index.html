@@ -164,7 +164,24 @@ BMS theatre group after a play.The BMS baseball team.The BMS football team dur
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690389009/mcpsorg/hyzt3aygytdob2skqbzt/footballforwebsite.jpg" alt="Card Image">
     <div class="overlay-text">The BMS football team during a game.</div>
   </div>
-    </div>
+</div>
+</div>
+<style>
+.audio-button {
+  font-size: 30px;
+  padding: 10px 12px;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.audio-button:hover {
+  background-color: #3498db; /* blue on hover */
+  transform: scale(1.15);     /* slight grow */
+  color: white;               /* icon/text turns white */
+}
+</style>
   <div style="
   display: flex;
   gap: 285px;
@@ -172,13 +189,13 @@ BMS theatre group after a play.The BMS baseball team.The BMS football team dur
   justify-content: center;
 ">
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('BMS theatre group after a play.')">🔊</button>
+    <button class="audio-button" onclick="readText('BMS theatre group after a play.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('The BMS baseball team.')">🔊</button>
+    <button class="audio-button" onclick="readText('The BMS baseball team.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('The BMS football team during a game.')">🔊</button>
+    <button class="audio-button" onclick="readText('The BMS football team during a game.')">🔊</button>
   </div>
 </div>
 <script>

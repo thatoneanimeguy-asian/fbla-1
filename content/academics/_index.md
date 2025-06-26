@@ -47,7 +47,22 @@ description: ""
 </div>
 
 </div>  
-
+  <style>
+.audio-button {
+  font-size: 30px;
+  padding: 10px 12px;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.audio-button:hover {
+  background-color: #3498db; /* blue on hover */
+  transform: scale(1.15);     /* slight grow */
+  color: white;               /* icon/text turns white */
+}
+</style>
 
   <div style="
   display: flex;
@@ -56,19 +71,19 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In FBLA, students participate in hands-on events, as well as learn business and leadership skills.')">🔊</button>
+    <button class="audio-button" onclick="readText('In FBLA, students participate in hands-on events, as well as learn business and leadership skills.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In ASL (American Sign Language) club, students learn about the importance of sign language, and how to use it.')">🔊</button>
+    <button class="audio-button" onclick="readText('In ASL (American Sign Language) club, students learn about the importance of sign language, and how to use it.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('If you like writing, literary magazine club is the place to go! With many different styles, such as poems and artwork, you can find fun and joy in writing, and possibly improve your English grade.')">🔊</button>
+    <button class="audio-button" onclick="readText('If you like writing, literary magazine club is the place to go! With many different styles, such as poems and artwork, you can find fun and joy in writing, and possibly improve your English grade.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('FFA (Future Farmers of America) encourages students to improve leadership skills, while also teaching them about agriculture and such.')">🔊</button>
+    <button class="audio-button" onclick="readText('FFA (Future Farmers of America) encourages students to improve leadership skills, while also teaching them about agriculture and such.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('FCCLA (Family, Career and Community Leaders of America) helps students develop community and leadership skills, while also doing fun food-related activities.')">🔊</button>
+    <button class="audio-button" onclick="readText('FCCLA (Family, Career and Community Leaders of America) helps students develop community and leadership skills, while also doing fun food-related activities.')">🔊</button>
   </div>
 </div>
 
@@ -121,7 +136,22 @@ description: ""
   </div>
 </div>
 </div>  
-
+  <style>
+.audio-button {
+  font-size: 30px;
+  padding: 10px 12px;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.audio-button:hover {
+  background-color: #3498db; /* blue on hover */
+  transform: scale(1.15);     /* slight grow */
+  color: white;               /* icon/text turns white */
+}
+</style>
 
   <div style="
   display: flex;
@@ -130,19 +160,19 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('Robotics club allows students to play around with robots, while also being able to do other STEM activities, such as the First Tech Challenge.')">🔊</button>
+    <button class="audio-button" onclick="readText('Robotics club allows students to play around with robots, while also being able to do other STEM activities, such as the First Tech Challenge.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In French club, students can explore the wonders of France, while participating in many fun activities.')">🔊</button>
+    <button class="audio-button" onclick="readText('In French club, students can explore the wonders of France, while participating in many fun activities.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In TSA (Technology Student Association), students learn about leadership, friendship, and community service, while also having access to 3D printers and CNC routers.')">🔊</button>
+    <button class="audio-button" onclick="readText('In TSA (Technology Student Association), students learn about leadership, friendship, and community service, while also having access to 3D printers and CNC routers.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In history club, students get a chance to learn about the wonders of the world, and also can participate in the 2025 Virginia History Day Contest.')">🔊</button>
+    <button class="audio-button" onclick="readText('In history club, students get a chance to learn about the wonders of the world, and also can participate in the 2025 Virginia History Day Contest.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('In Mathcounts, students learn about many different parts of math, and get to participate in fun math contests.')">🔊</button>
+    <button class="audio-button" onclick="readText('In Mathcounts, students learn about many different parts of math, and get to participate in fun math contests.')">🔊</button>
   </div>
 </div>
 
@@ -159,7 +189,22 @@ description: ""
   </div>
 </div>
 </div>  
-
+  <style>
+.audio-button {
+  font-size: 30px;
+  padding: 10px 12px;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.audio-button:hover {
+  background-color: #3498db; /* blue on hover */
+  transform: scale(1.15);     /* slight grow */
+  color: white;               /* icon/text turns white */
+}
+</style>
 
   <div style="
   display: flex;
@@ -168,7 +213,7 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.')">🔊</button>
+    <button class="audio-button" onclick="readText('Science Olympiad. A place to compete in science contests; from potions to lasers, different contests present different challenges to take on.')">🔊</button>
   </div>
 </div>
 
