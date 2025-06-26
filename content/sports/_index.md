@@ -7,17 +7,84 @@ description: ""
 <p>Hover over or click on an image to learn about the respective club.</p>
 </div>
 
-<div class="card-container">
+<style>
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.card {
+  width: 300px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card-image-wrapper {
+  position: relative;
+  width: 100%;
+  height: 90%
+}
+.card img {
+  width: 100%;
+  display: block;
+  height: 85%;
+}
+/* Hover overlay text */
+.overlay-text {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  font-size: 18px;
+}
+.card-image-wrapper:hover .overlay-text {
+  opacity: 1;
+}
+/* Button styling */
+.audio-button {
+  font-size: 24px;
+  padding: 10px 14px;
+  margin: 12px 0;
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  color: black;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease, color 0.2s ease;
+}
+.audio-button:hover {
+  background-color: #3498db;
+  color: white;
+  transform: scale(1.15);
+}
+</style>
+
   <div class="card">
+    <div class="card-image-wrapper">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs00uGc1aVmQkicIJ4fJMCT9_ClNUT8j_nlw&s" alt="Card Image">
     <div class="overlay-text">Intramurals. A fun little bit of sports; no competitiveness, just for those who want to try out sports.</div>
+    </div>
+      <button class="audio-button" onclick="readText('Intramurals. A fun little bit of sports; no competitiveness, just for those who want to try out sports.')">🔊</button>
   </div>
 
 
 
   <div class="card">
+    <div class="card-image-wrapper">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGmyRmUwm6InN6SRmWO_-RZq9qSkSGHB_qUQ&s" alt="Card Image">
     <div class="overlay-text">Weight Club. It's a place after school to develop your muscles safely, while still having lots of fun.</div>
+    </div>
+      <button class="audio-button" onclick="readText('Weight Club. Its a place after school to develop your muscles safely, while still having lots of fun.')">🔊</button>
   </div>
 
 
@@ -25,16 +92,22 @@ description: ""
 
 
   <div class="card">
+    <div class="card-image-wrapper">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1706812465/mcpsorg/oxyocumlkokfupna4vdz/boyssocerforwebsite.jpg" alt="Card Image">
     <div class="overlay-text">Boys' soccer is a competitive, fun, and an enjoyable experience with a total of 16 games and practices on Mondays.</div>
+    </div>
+      <button class="audio-button" onclick="readText('Boys soccer is a competitive, fun, and an enjoyable experience with a total of 16 games and practices on Mondays.')">🔊</button>
   </div>
   
 
 
 
   <div class="card">
+    <div class="card-image-wrapper">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1715352186/mcpsorg/nfxlhzjfrc2y2r4ketnv/girlssoccerforwebsite.jpg" alt="Card Image">
     <div class="overlay-text">BMS girls' soccer team is one of the best in Virginia, with fun and competetive games and practices.</div>
+    </div>
+      <button class="audio-button" onclick="readText('BMS girls soccer team is one of the best in Virginia, with fun and competetive games and practices.')">🔊</button>
   </div>
  
 
@@ -42,8 +115,11 @@ description: ""
 
 
   <div class="card">
+    <div class="card-image-wrapper">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1743437065/mcpsorg/w7hu0u7jc5lzak9ztbnz/BaseballMarch2025.jpg" alt="Card Image">
     <div class="overlay-text">BMS offers a fun and competitive baseball team.</div>
+    </div>
+      <button class="audio-button" onclick="readText('BMS offers a fun and competitive baseball team.')">🔊</button>
   </div>
 </div>
 
