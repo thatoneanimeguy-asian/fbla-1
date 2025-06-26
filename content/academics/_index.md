@@ -182,15 +182,11 @@ description: ""
     </div>
       <button class="audio-button" onclick="readText('In Mathcounts, students learn about many different parts of math, and get to participate in fun math contests.')">🔊</button>
   </div>
-</div>
 
-<script>
-  function readText(text) {
-    const speech = new SpeechSynthesisUtterance(text);
-    window.speechSynthesis.speak(speech);
-  }
-</script>
-<div class="card-container">
+
+
+
+
   <div class="card">
     <div class="card-image-wrapper">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXHYVZzvyuXS353QOYjXCaos2wIcJ-MskXxg&s" alt="Card Image">
