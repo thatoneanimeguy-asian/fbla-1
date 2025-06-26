@@ -61,7 +61,7 @@ description: ""
     <button onclick="readText('COAST (Community Outreach Actively  Supporting Task force) is a club that helps the local community, and also allows for students to participate in events that require teamwork and collaboration skills.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('In yearbook club, students can help construct this year's yearbook.')">🔊</button>
+    <button onclick="readText('In yearbook club, students can help construct this year&apos;s yearbook.')">🔊</button>
   </div>
   <div>
     <button onclick="readText('Pride club is for people that are LGBTQ+ to feel at home.')">🔊</button>
