@@ -41,13 +41,13 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('BMS theatre group after a play.')">🔊</button>
+    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('BMS theatre group after a play.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('The BMS baseball team.')">🔊</button>
+    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('The BMS baseball team.')">🔊</button>
   </div>
   <div>
-    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('The BMS football team during a game.')">🔊</button>
+    <button style="font-size: 30px; padding: 10px 12px;" onclick="readText('The BMS football team during a game.')">🔊</button>
   </div>
 </div>
 
