@@ -27,7 +27,7 @@ description: ""
 .card-image-wrapper {
   position: relative;
   width: 100%;
-  height: 90%
+  height: 80%
 }
 .card img {
   width: 100%;
