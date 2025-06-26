@@ -19,7 +19,7 @@ description: ""
 
   <div class="card">
     <img src="https://yearbookforever.com/images/Products/product_id_01.png" alt="Card Image">
-    <div class="overlay-text">In yearbook club, students can help construct this year\'s yearbook.</div>
+    <div class="overlay-text">In yearbook club, students can help construct this years yearbook.</div>
   </div>
 
 

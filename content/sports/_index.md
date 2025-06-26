@@ -46,6 +46,7 @@ description: ""
     <div class="overlay-text">BMS offers a fun and competitive baseball team.</div>
   </div>
 </div>
+
 </div>  
 
 
@@ -71,6 +72,7 @@ description: ""
     <button onclick="readText('BMS offers a fun and competitive baseball team.')">🔊</button>
   </div>
 </div>
+
 <script>
   function readText(text) {
     const speech = new SpeechSynthesisUtterance(text);
@@ -269,7 +271,7 @@ description: ""
     <button onclick="readText('BMS Taekwondo Club is an organization that promotes martial arts practice and comradery. It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo.')">🔊</button>
   </div>
 </div>
-  <div>
+
 <script>
   function readText(text) {
     const speech = new SpeechSynthesisUtterance(text);
