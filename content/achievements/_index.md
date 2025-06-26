@@ -34,13 +34,13 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button onclick="readText('A few BMS FBLA students, shown winning in video game design.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('A few BMS FBLA students, shown winning in video game design.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('BMS placed 51 Students into the all-district band.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('BMS placed 51 Students into the all-district band.')">🔊</button>
   </div>
 </div>
 

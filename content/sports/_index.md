@@ -130,19 +130,19 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button onclick="readText('In track and field, athletes can participate in running events, and have chances of winning medals!')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('In track and field, athletes can participate in running events, and have chances of winning medals!')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('BMS has a great girls softball team. They have practices and games that are fun and intense.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('BMS has a great girls softball team. They have practices and games that are fun and intense.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('Boys basketball provides intensive training for a fun and competitive game.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('Boys basketball provides intensive training for a fun and competitive game.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('A competitive league of basketball with intense training and fun games for girls.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('A competitive league of basketball with intense training and fun games for girls.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('Girls can try out for cheerleading team, allowing them to have fun and represent BMS.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('Girls can try out for cheerleading team, allowing them to have fun and represent BMS.')">🔊</button>
   </div>
 </div>
 
@@ -206,19 +206,19 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button onclick="readText('In wrestling, kids can learn about how to wrestle, and have fun doing so.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('In wrestling, kids can learn about how to wrestle, and have fun doing so.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('In cross country, kids can improve their stamina by practicing long distance running, while also being able to have a good time.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('In cross country, kids can improve their stamina by practicing long distance running, while also being able to have a good time.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('In BMS football everyone can have fun playing football while exercising and competing with others.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('In BMS football everyone can have fun playing football while exercising and competing with others.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('In BMS golf everyone can have fun hitting a golf ball and competing in golf matches.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('In BMS golf everyone can have fun hitting a golf ball and competing in golf matches.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('In swim and dive those who love swimming and diving can enjoy the water together.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('In swim and dive those who love swimming and diving can enjoy the water together.')">🔊</button>
   </div>
 </div>
 
@@ -262,13 +262,13 @@ description: ""
   justify-content: center;
 ">
   <div>
-    <button onclick="readText('A sport team specifically for girls. Its fun and competitive volleyball.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('A sport team specifically for girls. Its fun and competitive volleyball.')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('Pickleball club allows students to exercise regularly, while still being able to build community and have lots of fun!')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('Pickleball club allows students to exercise regularly, while still being able to build community and have lots of fun!')">🔊</button>
   </div>
   <div>
-    <button onclick="readText('BMS Taekwondo Club is an organization that promotes martial arts practice and comradery. It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo.')">🔊</button>
+    <button style="font-size: 50px; padding: 12px 16px;" onclick="readText('BMS Taekwondo Club is an organization that promotes martial arts practice and comradery. It is open to all styles of martial arts. This is a student-led group that gathers for practice and learning of taekwondo.')">🔊</button>
   </div>
 </div>
 
