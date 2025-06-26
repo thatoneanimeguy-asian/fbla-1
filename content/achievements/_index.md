@@ -4,58 +4,6 @@ featured_image: ''
 description: ""
 ---
 
-<style>
-.card-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-}
-
-.card {
-  position: relative;
-  width: 300px;
-  height: 200px;
-  overflow: hidden;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-}
-
-.card img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.overlay-text {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  padding: 10px;
-  background: rgba(0, 0, 0, 0.5);
-  color: white;
-  font-size: 14px;
-  width: 100%;
-}
-
-.audio-button {
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
-  font-size: 24px;
-  padding: 8px 10px;
-  background-color: white;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: transform 0.2s ease;
-}
-
-.audio-button:hover {
-  transform: scale(1.3);
-}
-</style>
-
 <div class="card-container">
   <div class="card">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1689019814/mcpsorg/sgvky6zhwewlp1xskuik/MemberswithMedals.jpg" alt="Card Image">
