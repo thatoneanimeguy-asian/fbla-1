@@ -177,17 +177,11 @@ description: ""
     </div>
       <button class="audio-button" onclick="readText('Girls can try out for cheerleading team, allowing them to have fun and represent BMS.')">🔊</button>
   </div>
-</div>
-
-<script>
-  function readText(text) {
-    const speech = new SpeechSynthesisUtterance(text);
-    window.speechSynthesis.speak(speech);
-  }
-</script>
 
 
-<div class="card-container">
+
+
+
   <div class="card">
     <div class="card-image-wrapper">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1694097997/mcpsorg/wqz1kngpmrc2d6acyuyu/wrestling.jpg" alt="Card Image">
@@ -243,17 +237,11 @@ description: ""
     </div>
       <button class="audio-button" onclick="readText('In swim and dive those who love swimming and diving can enjoy the water together.')">🔊</button>
   </div>
-</div>
-
-<script>
-  function readText(text) {
-    const speech = new SpeechSynthesisUtterance(text);
-    window.speechSynthesis.speak(speech);
-  }
-</script>
 
 
-<div class="card-container">
+
+
+
   <div class="card">
     <div class="card-image-wrapper">
     <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690390137/mcpsorg/xa2znm90wl57fiy5yvew/Volleyballforwebsite.jpg" alt="Card Image">
