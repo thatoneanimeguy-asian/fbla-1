@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head><script src="/fbla-1/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=fbla-1/livereload" data-no-instant defer></script>
+  <head><script src="/fbla-1/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=fbla-1/livereload" data-no-instant defer></script><script src="/fbla-1/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=fbla-1/livereload" data-no-instant defer></script>
     <link rel="stylesheet" href="/fbla-1/css/custom.css">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Other Clubs | BMS Clubs</title>
+    <title>Home | BMS Clubs</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="">
     <meta name="generator" content="Hugo 0.143.1">
@@ -31,31 +31,46 @@
 
     
     
-      <link href="/fbla-1/otherclubs/index.xml" rel="alternate" type="application/rss+xml" title="BMS Clubs" />
-      <link href="/fbla-1/otherclubs/index.xml" rel="feed" type="application/rss+xml" title="BMS Clubs" />
+      <link href="/fbla-1/index.xml" rel="alternate" type="application/rss+xml" title="BMS Clubs" />
+      <link href="/fbla-1/index.xml" rel="feed" type="application/rss+xml" title="BMS Clubs" />
       
     
 
     
-      <link rel="canonical" href="http://localhost:1313/fbla-1/otherclubs/">
+      <link rel="canonical" href="http://localhost:1313/fbla-1/">
     
 
-    <meta property="og:url" content="http://localhost:1313/fbla-1/otherclubs/">
+    <meta property="og:url" content="http://localhost:1313/fbla-1/">
   <meta property="og:site_name" content="BMS Clubs">
-  <meta property="og:title" content="Other Clubs">
-  <meta property="og:description" content="Hover over or click on an image to learn about the respective club.
-COAST (Community Outreach Actively Supporting Task force) is a club that helps the local community, and also allows for students to participate in events that require teamwork and collaboration skills.🔊In yearbook club, students can help construct this years yearbook.🔊Pride club is for people that are LGBTQ&#43; to feel at home.🔊If you like field trips and traveling, TICKET club (Travel, International, Cultures, Knowledge, Education, Tourism) is something that you would enjoy.🔊FCA (Fellowship of Christian Athletes) is for people to meet and work as a team in various activities, while following biblical principles.🔊">
+  <meta property="og:title" content="Home">
+  <meta property="og:description" content="Welcome to the BMS Clubs Homepage.
+BMS theatre group after a play.
+🔊
+The BMS baseball team.
+🔊
+The BMS football team during a game.
+🔊">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 
-  <meta itemprop="name" content="Other Clubs">
-  <meta itemprop="description" content="Hover over or click on an image to learn about the respective club.
-COAST (Community Outreach Actively Supporting Task force) is a club that helps the local community, and also allows for students to participate in events that require teamwork and collaboration skills.🔊In yearbook club, students can help construct this years yearbook.🔊Pride club is for people that are LGBTQ&#43; to feel at home.🔊If you like field trips and traveling, TICKET club (Travel, International, Cultures, Knowledge, Education, Tourism) is something that you would enjoy.🔊FCA (Fellowship of Christian Athletes) is for people to meet and work as a team in various activities, while following biblical principles.🔊">
-  <meta itemprop="wordCount" content="113">
+  <meta itemprop="name" content="Home">
+  <meta itemprop="description" content="Welcome to the BMS Clubs Homepage.
+BMS theatre group after a play.
+🔊
+The BMS baseball team.
+🔊
+The BMS football team during a game.
+🔊">
+  <meta itemprop="wordCount" content="26">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Other Clubs">
-  <meta name="twitter:description" content="Hover over or click on an image to learn about the respective club.
-COAST (Community Outreach Actively Supporting Task force) is a club that helps the local community, and also allows for students to participate in events that require teamwork and collaboration skills.🔊In yearbook club, students can help construct this years yearbook.🔊Pride club is for people that are LGBTQ&#43; to feel at home.🔊If you like field trips and traveling, TICKET club (Travel, International, Cultures, Knowledge, Education, Tourism) is something that you would enjoy.🔊FCA (Fellowship of Christian Athletes) is for people to meet and work as a team in various activities, while following biblical principles.🔊">
+  <meta name="twitter:title" content="Home">
+  <meta name="twitter:description" content="Welcome to the BMS Clubs Homepage.
+BMS theatre group after a play.
+🔊
+The BMS baseball team.
+🔊
+The BMS football team during a game.
+🔊">
 
 	
   </head><body class="ma0 avenir bg-near-white development">
@@ -64,78 +79,85 @@ COAST (Community Outreach Actively Supporting Task force) is a club that helps t
 
   <header>
     <div class="pb3-m pb6-l bg-dark-blue">
-      <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l justify-between items-center center">
+<style>
+  .nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .hamburger {
+    display: none;
+    font-size: 28px;
+    color: white;
+    cursor: pointer;
+  }
+
+  .nav-links {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 0.5em 0;
+  }
+
+  .nav-links a:hover {
+    color: #1abc9c;
+  }
+
+  @media (max-width: 768px) {
+    .hamburger {
+      display: block;
+    }
+
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+    }
+
+    .nav-links.show {
+      display: flex;
+    }
+  }
+</style>
+
+<nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="nav-container">
     <a href="/fbla-1/" class="f3 fw2 hover-white no-underline white-90 dib">
-      
-        BMS Clubs
-      
+      BMS Clubs
     </a>
-    <div class="flex-l items-center">
-      
 
-      
-        <ul class="pl0 mr3">
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/fbla-1/" title="Home page">
-              Home
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/fbla-1/sports/" title="Sports page">
-              Sports
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/fbla-1/academics/" title="Academics page">
-              Academics
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/fbla-1/gamesandfun/" title="Games and Fun page">
-              Games and Fun
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/fbla-1/otherclubs/" title="Other Clubs page">
-              Other Clubs
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/fbla-1/achievements/" title="Achievements page">
-              Achievements
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/fbla-1/registration/" title="Registration page">
-              Registration
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/fbla-1/bibliography/" title="Bibliography page">
-              Bibliography
-            </a>
-          </li>
-          
-        </ul>
-      
-      <div class="ananke-socials"></div>
+    <div class="hamburger" onclick="toggleMenu()">☰</div>
 
+    <div class="nav-links" id="navLinks">
+      <a href="/fbla-1/">Home</a>
+      <a href="/fbla-1/sports/">Sports</a>
+      <a href="/fbla-1/academics/">Academics</a>
+      <a href="/fbla-1/gamesandfun/">Games & Fun</a>
+      <a href="/fbla-1/otherclubs/">Other Clubs</a>
+      <a href="/fbla-1/achievements/">Achievements</a>
+      <a href="/fbla-1/registration/">Registration</a>
+      <a href="/fbla-1/bibliography/">Bibliography</a>
     </div>
   </div>
 </nav>
 
+<script>
+  function toggleMenu() {
+    document.getElementById("navLinks").classList.toggle("show");
+  }
+</script>
+
       <div class="tc-l pv3 ph3 ph4-ns">
         <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
-          Other Clubs
+          Home
         </h1>
         
       </div>
@@ -145,8 +167,11 @@ COAST (Community Outreach Actively Supporting Task force) is a club that helps t
 
     <main class="pb7" role="main">
       
-  <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"><p>Hover over or click on an image to learn about the respective club.</p>
+  <article class=" justify-between mw8 center ph3 mid-gray">
+    <br>
+<br>
+<div style="background-color: blue; padding: 60px; border-radius: 32px; color: yellow;">
+  <p style="text-align: center; font-size: 32px;">Welcome to the BMS Clubs Homepage.</p>
 </div>
 <style>
 .card-container {
@@ -175,7 +200,7 @@ COAST (Community Outreach Actively Supporting Task force) is a club that helps t
   display: block;
   height: 85%;
 }
-/* Hover overlay text */
+ 
 .overlay-text {
   position: absolute;
   bottom: 0;
@@ -191,7 +216,7 @@ COAST (Community Outreach Actively Supporting Task force) is a club that helps t
 .card-image-wrapper:hover .overlay-text {
   opacity: 1;
 }
-/* Button styling */
+ 
 .audio-button {
   font-size: 24px;
   padding: 10px 14px;
@@ -212,50 +237,41 @@ COAST (Community Outreach Actively Supporting Task force) is a club that helps t
 <div class="card-container">
   <div class="card">
     <div class="card-image-wrapper">
-    <img src="https://static.wixstatic.com/media/9ca844_6b81b4fec8404ec3bad10c94f9b89ad2~mv2.png" alt="Card Image">
-    <div class="overlay-text">COAST (Community Outreach Actively  Supporting Task force) is a club that helps the local community, and also allows for students to participate in events that require teamwork and collaboration skills.</div>
+    <img src="images/BMS4.jpg" alt="Card Image">
+    <div class="overlay-text">BMS theatre group after a play.</div>
     </div>
-      <button class="audio-button" onclick="readText('COAST (Community Outreach Actively  Supporting Task force) is a club that helps the local community, and also allows for students to participate in events that require teamwork and collaboration skills.')">🔊</button>
+      <button class="audio-button" onclick="readText('BMS theatre group after a play.')">🔊</button>
   </div>
   <div class="card">
     <div class="card-image-wrapper">
-    <img src="https://yearbookforever.com/images/Products/product_id_01.png" alt="Card Image">
-    <div class="overlay-text">In yearbook club, students can help construct this years yearbook.</div>
+    <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1743437065/mcpsorg/w7hu0u7jc5lzak9ztbnz/BaseballMarch2025.jpg" alt="Card Image">
+    <div class="overlay-text">The BMS baseball team.</div>
     </div>
-      <button class="audio-button" onclick="readText('In yearbook club, students can help construct this years yearbook.')">🔊</button>
+      <button class="audio-button" onclick="readText('The BMS baseball team.')">🔊</button>
   </div>
   <div class="card">
     <div class="card-image-wrapper">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHn-faVDn0W3AieipaxmNd5ZP5J0iW04jj5w&s" alt="Card Image">
-    <div class="overlay-text">Pride club is for people that are LGBTQ+ to feel at home.</div>
+    <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1690389009/mcpsorg/hyzt3aygytdob2skqbzt/footballforwebsite.jpg" alt="Card Image">
+    <div class="overlay-text">The BMS football team during a game.</div>
     </div>
-      <button class="audio-button" onclick="readText('Pride club is for people that are LGBTQ+ to feel at home.')">🔊</button>
+      <button class="audio-button" onclick="readText('The BMS football team during a game.')">🔊</button>
   </div>
-  <div class="card">
-    <div class="card-image-wrapper">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWSkEbE4eQXLCOPlixqoxMcPinhSFbLX7nZg&s" alt="Card Image">
-    <div class="overlay-text">If you like field trips and traveling, TICKET club (Travel, International, Cultures, Knowledge, Education, Tourism) is something that you would enjoy.</div>
-    </div>
-      <button class="audio-button" onclick="readText('If you like field trips and traveling, TICKET club (Travel, International, Cultures, Knowledge, Education, Tourism) is something that you would enjoy.')">🔊</button>
-  </div>
-  <div class="card">
-    <div class="card-image-wrapper">
-    <img src="https://lirp.cdn-website.com/5f4b8e70/dms3rep/multi/opt/FCAlogo-CircleColr-01-1920w.png" alt="Card Image">
-    <div class="overlay-text">FCA (Fellowship of Christian Athletes) is for people to meet and work as a team in various activities, while following biblical principles.</div>
-    </div>
-      <button class="audio-button" onclick="readText('FCA (Fellowship of Christian Athletes) is for people to meet and work as a team in various activities, while following biblical principles.')">🔊</button>
-  </div>
-</div>  
+</div>
 <script>
   function readText(text) {
     const speech = new SpeechSynthesisUtterance(text);
     window.speechSynthesis.speak(speech);
   }
 </script>
-</section>
-    <section class="flex-ns flex-wrap justify-around mt5">
-      
-    </section></article>
+  </article>
+
+  
+  
+  
+  
+  
+
+  
 
     </main>
     <footer class="bg-dark-blue bottom-0 w-100 pa3" role="contentinfo">
