@@ -77,6 +77,7 @@ description: ""
 
 
 
+
   <div class="card">
     <div class="card-image-wrapper">
     <img src="https://mathcounts.godmar.me/assets/images/mc-2025-team-win-small-ce539f3561932a383062c9f6488a7759.jpg" alt="Card Image">
@@ -84,6 +85,7 @@ description: ""
     </div>
       <button class="audio-button" onclick="readText('The Blacksburg Middle School MATHCOUNTS team got first place in their chapter, and advanced to the state round.')">🔊</button>
   </div>
+
 
 
 
