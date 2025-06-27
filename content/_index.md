@@ -76,7 +76,7 @@ description: ""
 <div class="card-container">
   <div class="card">
     <div class="card-image-wrapper">
-    <img src="images/BMS4.jpg" alt="Card Image">
+    <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1687442295/mcpsorg/sxiswcea7gegoo1eokev/BMS4.jpg" alt="Card Image">
     <div class="overlay-text">BMS theatre group after a play.</div>
     </div>
       <button class="audio-button" onclick="readText('BMS theatre group after a play.')">🔊</button>
