@@ -7,5 +7,10 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/fbla-1/tags/</link>
+    <description>Recent content in Tags on BMS Clubs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/fbla-1/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

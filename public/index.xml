@@ -15,5 +15,11 @@
       <guid>http://localhost:1313/sports/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
+    <title>Home on BMS Clubs</title>
+    <link>http://localhost:1313/fbla-1/</link>
+    <description>Recent content in Home on BMS Clubs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/fbla-1/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

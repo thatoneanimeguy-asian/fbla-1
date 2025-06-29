@@ -1,0 +1,75 @@
+<style>
+  .nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .hamburger {
+    display: none;
+    font-size: 28px;
+    color: white;
+    cursor: pointer;
+  }
+
+  .nav-links {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 0.5em 0;
+  }
+
+  .nav-links a:hover {
+    color: #1abc9c;
+  }
+
+  @media (max-width: 768px) {
+    .hamburger {
+      display: block;
+    }
+
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+    }
+
+    .nav-links.show {
+      display: flex;
+    }
+  }
+</style>
+
+<nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="nav-container">
+    <a href="/fbla-1/" class="f3 fw2 hover-white no-underline white-90 dib">
+      BMS Clubs
+    </a>
+
+    <div class="hamburger" onclick="toggleMenu()">☰</div>
+
+    <div class="nav-links" id="navLinks">
+      <a href="/fbla-1/">Home</a>
+      <a href="/fbla-1/sports/">Sports</a>
+      <a href="/fbla-1/academics/">Academics</a>
+      <a href="/fbla-1/gamesandfun/">Games & Fun</a>
+      <a href="/fbla-1/otherclubs/">Other Clubs</a>
+      <a href="/fbla-1/achievements/">Achievements</a>
+      <a href="/fbla-1/registration/">Registration</a>
+      <a href="/fbla-1/bibliography/">Bibliography</a>
+    </div>
+  </div>
+</nav>
+
+<script>
+  function toggleMenu() {
+    document.getElementById("navLinks").classList.toggle("show");
+  }
+</script>
